@@ -1,0 +1,2602 @@
+Edad,Genero,Nivel_Educativo,Titulo_Del_Trabajo,Años_De_Experiencia,Salario
+32,Hombre,Licenciatura,Ingeniero de Software,5,90000.0
+28,Mujer,Maestria,Analista de Datos,3,65000.0
+45,Hombre,Doctorado,Gerente Senior,15,150000.0
+36,Mujer,Otro,Otro,7,60000.0
+52,Hombre,Maestria,Director,20,200000.0
+42,Mujer,Maestria,Gerente de Producto,12,120000.0
+31,Hombre,Licenciatura,Gerente de Ventas,4,80000.0
+26,Mujer,Licenciatura,Coordinador de Marketing,1,45000.0
+38,Hombre,Otro,Cientifico Senior,10,110000.0
+29,Hombre,Maestria,Desarrollador de Software,0,75000.0
+35,Hombre,Licenciatura,Analista Financiero,6,65000.0
+40,Mujer,Maestria,Gerente de Proyectos,14,130000.0
+27,Hombre,Licenciatura,Representante de Servicio al Cliente,2,40000.0
+39,Otro,Doctorado,Ingeniero Senior,12,115000.0
+25,Mujer,Licenciatura,Empleado de Ingreso de Datos,0,35000.0
+51,Hombre,Licenciatura,Director de Ventas,0,180000.0
+34,Mujer,Maestria,Analista de Negocios,5,80000.0
+47,Hombre,Maestria,VP de Operaciones,19,190000.0
+30,Hombre,Licenciatura,Soporte Tecnico,2,50000.0
+41,Hombre,Maestria,Gerente Financiero,13,140000.0
+28,Mujer,Licenciatura,Especialista en Redes Sociales,3,45000.0
+37,Mujer,Maestria,Otro,11,110000.0
+24,Hombre,Licenciatura,Desarrollador Junior,1,40000.0
+43,Mujer,Doctorado,Otro,0,140000.0
+33,Hombre,Maestria,Diseñador de Producto,6,90000.0
+50,Hombre,Licenciatura,CEO,25,250000.0
+31,Otro,Licenciatura,Accountant,4,55000.0
+29,Hombre,Maestria,Cientifico de Datos,3,75000.0
+39,Mujer,Licenciatura,Especialista en Marketing,10,65000.0
+27,Hombre,Licenciatura,Redactor Tecnico,2,45000.0
+35,Mujer,Licenciatura,Generalista de Recursos Humanos,7,60000.0
+42,Hombre,Maestria,Ingeniero de Proyectos,14,115000.0
+26,Mujer,Licenciatura,Representante de exito del Cliente,1,40000.0
+34,Mujer,Maestria,Diseñador UX,5,80000.0
+48,Hombre,Maestria,Director de Operaciones,18,190000.0
+36,Mujer,Licenciatura,Asistente Administrativo,8,45000.0
+41,Hombre,Maestria,Consultor de Estrategia,13,130000.0
+28,Mujer,Licenciatura,Redactor Publicitario,2,40000.0
+45,Mujer,Maestria,Director de Marketing,16,180000.0
+38,Hombre,Doctorado,Otro,11,120000.0
+25,Hombre,Licenciatura,Analista de Mesa de Ayuda,0,35000.0
+40,Mujer,Licenciatura,Otro,12,60000.0
+47,Hombre,Maestria,VP de Finanzas,19,200000.0
+29,Mujer,Licenciatura,Diseñador Grafico,3,50000.0
+36,Hombre,Licenciatura,Gerente de Ventas,9,95000.0
+43,Hombre,Doctorado,Ingeniero Senior,0,140000.0
+30,Mujer,Licenciatura,Gerente de Redes Sociales,4,55000.0
+35,Hombre,Maestria,Gerente de Producto,7,105000.0
+51,Mujer,Maestria,Director de Operaciones,23,170000.0
+29,Hombre,Licenciatura,Analista de Marketing,3,50000.0
+40,Mujer,Licenciatura,Gerente de Recursos Humanos,12,80000.0
+47,Hombre,Doctorado,Cientifico de Datos Senior,21,180000.0
+26,Hombre,Licenciatura,Contador Junior,1,35000.0
+38,Mujer,Maestria,Gerente de Marketing Digital,10,90000.0
+46,Hombre,Licenciatura,IT Manager,0,120000.0
+34,Hombre,Maestria,Gerente de Desarrollo de Negocios,8,90000.0
+33,Hombre,Licenciatura,Desarrollador Web,6,65000.0
+39,Mujer,Licenciatura,Reclutador,11,70000.0
+45,Hombre,Doctorado,Director de Investigacion,16,190000.0
+28,Hombre,Licenciatura,Especialista en Soporte Tecnico,2,40000.0
+42,Mujer,Maestria,Director Creativo,14,120000.0
+37,Hombre,Licenciatura,Gerente de Proyectos,10,95000.0
+50,Mujer,Licenciatura,Gerente de Operaciones,22,160000.0
+32,Hombre,Maestria,Ingeniero de Software Senior,6,100000.0
+36,Hombre,Licenciatura,Reclutador Tecnico,8,70000.0
+41,Mujer,Maestria,Analista de Datos,13,80000.0
+25,Hombre,Licenciatura,bbb,0,30000.0
+52,Hombre,Doctorado,Director de Tecnologia,24,250000.0
+34,Mujer,Maestria,Asesor Financiero,10,95000.0
+27,Hombre,Licenciatura,Gerente de Cuentas Junior,2,45000.0
+40,Mujer,Licenciatura,Otro,15,80000.0
+31,Mujer,Licenciatura,Coordinador de Marketing,6,55000.0
+36,Hombre,Doctorado,Cientifico Principal,11,120000.0
+43,Hombre,Licenciatura,Gerente de Cadena de Suministro,18,105000.0
+52,Mujer,Maestria,Gerente de Marketing Senior,25,170000.0
+33,Hombre,Licenciatura,Analista de Negocios,7,75000.0
+39,Mujer,Licenciatura,Especialista en Capacitacion,12,65000.0
+47,Hombre,Doctorado,Cientifico Investigador,0,160000.0
+26,Hombre,Licenciatura,Desarrollador de Software Junior,1,35000.0
+38,Otro,Maestria,Public Relations Manager,10,90000.0
+45,Hombre,Licenciatura,Analista de Operaciones,20,110000.0
+31,Mujer,Licenciatura,Coordinador de Eventos,5,45000.0
+35,Hombre,Maestria,Gerente de Marketing de Producto,8,95000.0
+49,Mujer,Maestria,Gerente de Recursos Humanos Senior,19,150000.0
+33,Hombre,Licenciatura,Desarrollador Web Junior,5,50000.0
+39,Mujer,Maestria,Coordinador de Proyectos Senior,13,80000.0
+30,Mujer,Licenciatura,Productor de Contenido Digital,3,50000.0
+36,Otro,Licenciatura,IT Support Specialist,7,60000.0
+41,Otro,Maestria,Analista de Marketing Senior,14,100000.0
+28,Hombre,Licenciatura,Gerente de exito del Cliente,2,40000.0
+42,Otro,Maestria,Senior Graphic Designer,15,110000.0
+37,Hombre,Licenciatura,bbb,9,95000.0
+50,Mujer,Licenciatura,Analista de Cadena de Suministro,22,130000.0
+32,Hombre,Maestria,Analista de Negocios Senior,6,90000.0
+23,Mujer,Licenciatura,Otro,0,35000.0
+31,Hombre,Maestria,Analista Financiero Senior,6,95000.0
+40,Mujer,Licenciatura,Gerente de Oficina,15,65000.0
+48,Hombre,Doctorado,Otro,20,170000.0
+29,Mujer,Licenciatura,Generalista de Recursos Humanos Junior,0,45000.0
+35,Hombre,Maestria,Gerente de Producto Senior,10,120000.0
+53,Hombre,Maestria,Director de Marketing,25,180000.0
+33,Mujer,Licenciatura,Analista de Operaciones Junior,5,50000.0
+38,Hombre,Licenciatura,Gerente de Servicio al Cliente,11,80000.0
+44,Mujer,Doctorado,Cientifico Senior,16,140000.0
+26,Hombre,Licenciatura,Contador Junior,2,40000.0
+37,Mujer,Maestria,Generalista de Recursos Humanos Senior,9,95000.0
+45,Otro,Otro,Grente de Operaciones de Ventas,18,110000.0
+32,Mujer,Licenciatura,Coordinador de Marketing,4,50000.0
+34,Hombre,Maestria,Desarrollador de Software Senior,0,105000.0
+50,Mujer,Maestria,Director de Operaciones,21,160000.0
+29,Hombre,Licenciatura,Diseñador Web Junior,3,45000.0
+40,Mujer,Maestria,Especialista en Capacitacion Senior,12,100000.0
+47,Hombre,Doctorado,Cientifico Investigador Senior,22,160000.0
+27,Hombre,Licenciatura,Representante de Ventas Junior,1,35000.0
+39,Mujer,Licenciatura,Asistente Administrativo,10,55000.0
+46,Hombre,Maestria,Gerente de Proyectos Senior,19,140000.0
+30,Otro,Licenciatura,Gerente de Marketing Junior,4,50000.0
+36,Hombre,Licenciatura,Analista de Datos Junior,7,60000.0
+43,Otro,Maestria,Gerente Senior de Marketing de Producto,14,120000.0
+28,Hombre,Licenciatura,Analista de Negocios Junior,2,40000.0
+41,Mujer,Maestria,Gerente de Marketing Senior,13,110000.0
+33,Hombre,Licenciatura,Desarrollador de Software Junior,5,50000.0
+34,Hombre,Licenciatura,Analista de Negocios Senior,8,90000.0
+42,Mujer,Doctorado,Cientifico de Datos Senior,16,150000.0
+31,Hombre,Licenciatura,Gerente de Proyectos Junior,4,60000.0
+38,Mujer,Licenciatura,Contador Senior,10,80000.0
+45,Hombre,Maestria,Director de Ventas,19,175000.0
+29,Otro,Licenciatura,Junior Recruiter,3,45000.0
+36,Hombre,Maestria,Gerente de Desarrollo de Negocios Senior,11,120000.0
+43,Mujer,Doctorado,Diseñador de Producto Senior,18,140000.0
+26,Hombre,Licenciatura,Especialista en Soporte al Cliente Junior,2,35000.0
+37,Mujer,Maestria,Analista de Marketing Senior,9,95000.0
+44,Hombre,Licenciatura,Especialista en Soporte Tecnico Senior,14,110000.0
+32,Mujer,Licenciatura,Analista Financiero Junior,5,50000.0
+33,Hombre,Maestria,Gerente de Operaciones Senior,7,115000.0
+51,Mujer,Doctorado,Director de Recursos Humanos,23,185000.0
+28,Hombre,Licenciatura,Ingeniero de Software Junior,0,40000.0
+39,Mujer,Licenciatura,Representante de Ventas Senior,0,90000.0
+48,Hombre,Maestria,Director de Gestion de Producto,21,175000.0
+30,Mujer,Licenciatura,Redactor Junior,3,45000.0
+35,Hombre,Licenciatura,Coordinador de Marketing Senior,7,80000.0
+41,Mujer,Maestria,Gerente Senior de Recursos Humanos,13,120000.0
+27,Hombre,Licenciatura,Asociado de Desarrollo de Negocios Junior,1,35000.0
+40,Mujer,Licenciatura,Gerente de Cuentas Senior,14,110000.0
+46,Hombre,Doctorado,Investigador Senior,18,150000.0
+31,Mujer,Licenciatura,Coordinador de Recursos Humanos Junior,4,50000.0
+34,Hombre,Maestria,Ingeniero de Software Senior,9,105000.0
+50,Mujer,Maestria,Director de Finanzas,20,180000.0
+43,Hombre,Licenciatura,Gerente de Proyectos Senior,16,140000.0
+26,Mujer,Maestria,Cientifico de Datos Junior,1,45000.0
+35,Hombre,Licenciatura,Analista de Operaciones Senior,7,85000.0
+42,Mujer,Doctorado,Gerente de Marketing Senior,18,140000.0
+31,Hombre,Licenciatura,Contador Junior,4,50000.0
+38,Mujer,Licenciatura,Coordinador de Recursos Humanos Senior,0,80000.0
+46,Hombre,Maestria,Otro,20,170000.0
+29,Mujer,Licenciatura,Representante de Ventas Junior,2,40000.0
+37,Hombre,Maestria,Analista de Negocios Senior,9,105000.0
+44,Mujer,Doctorado,Diseñador UX Senior,15,145000.0
+27,Hombre,Licenciatura,Gerente de Producto Junior,2,40000.0
+36,Mujer,Licenciatura,Especialista en Marketing Senior,8,85000.0
+43,Hombre,Licenciatura,Gerente de Proyectos de TI Senior,14,130000.0
+33,Mujer,Maestria,Analista Financiero Senior,6,95000.0
+34,Hombre,Licenciatura,Analista de Aseguramiento de Calidad Senior,9,100000.0
+50,Mujer,Doctorado,Director of Sales and Marketing,0,180000.0
+28,Hombre,Licenciatura,Analista de Operaciones Junior,0,35000.0
+39,Mujer,Licenciatura,Ejecutivo de Cuentas Senior,12,95000.0
+47,Hombre,Maestria,Director de Desarrollo de Negocios,19,170000.0
+30,Mujer,Licenciatura,Gerente de Redes Sociales Junior,3,45000.0
+34,Hombre,Licenciatura,Gerente de Producto Senior,7,95000.0
+40,Mujer,Maestria,Especialista en Recursos Humanos Senior,13,120000.0
+28,Otro,Licenciatura,Analista de Negocios Junior,2,40000.0
+41,Mujer,Licenciatura,Coordinador de Marketing Senior,11,90000.0
+45,Hombre,Doctorado,Analista de Datos Senior,17,155000.0
+32,Mujer,Licenciatura,Gerente de Cuentas Junior,5,55000.0
+35,Otro,Maestria,Desarrollador de Software Senior,9,110000.0
+49,Mujer,Maestria,Director de Capital Humano,21,180000.0
+30,Hombre,Licenciatura,Coordinador de Publicidad Junior,3,45000.0
+27,Mujer,Maestria,Diseñador UX Junior,1,45000.0
+36,Hombre,Licenciatura,Contador Senior,7,90000.0
+41,Mujer,Doctorado,Director de Marketing Senior,17,160000.0
+31,Hombre,Licenciatura,Generalista de Recursos Humanos Junior,4,50000.0
+39,Mujer,Licenciatura,Otro,10,120000.0
+47,Hombre,Maestria,Director de Finanzas,20,170000.0
+30,Mujer,Licenciatura,Coordinador de Marketing Junior,2,40000.0
+45,Mujer,Doctorado,Diseñador de Producto Senior,15,150000.0
+28,Hombre,Licenciatura,Asociado de Desarrollo de Negocios Junior,2,40000.0
+35,Mujer,Licenciatura,Analista de Marketing Senior,8,85000.0
+44,Hombre,Licenciatura,Ingeniero de Software Senior,14,130000.0
+34,Mujer,Maestria,Asesor Financiero Senior,6,100000.0
+35,Hombre,Licenciatura,Coordinador de Proyectos Senior,9,95000.0
+50,Mujer,Doctorado,Director de Operaciones,0,180000.0
+29,Hombre,Licenciatura,Analista de Operaciones de Negocios Junior,1,35000.0
+40,Mujer,Licenciatura,Representante de Ventas Senior,12,100000.0
+31,Mujer,Licenciatura,Especialista en Redes Sociales Junior,3,45000.0
+42,Mujer,Maestria,Gerente Senior de Recursos Humanos,13,140000.0
+28,Hombre,Licenciatura,Analista Financiero Junior,2,40000.0
+40,Mujer,Licenciatura,Gerente de Marketing Senior,11,105000.0
+46,Hombre,Doctorado,Cientifico de Datos Senior,18,160000.0
+33,Mujer,Licenciatura,Gerente de Operaciones Junior,5,70000.0
+37,Hombre,Maestria,Arquitecto de Software Senior,9,120000.0
+51,Mujer,Maestria,Director de Recursos Humanos,21,190000.0
+30,Hombre,Licenciatura,Especialista en Marketing Junior,3,45000.0
+43,Hombre,Licenciatura,Gerente de Proyectos Senior,15,120000.0
+27,Mujer,Maestria,Cientifico Investigador Junior,0,50000.0
+42,Mujer,Doctorado,bbb,0,140000.0
+32,Hombre,Licenciatura,Representante de Ventas Junior,3,45000.0
+37,Mujer,Licenciatura,Analista Financiero Senior,9,100000.0
+45,Hombre,Maestria,Desarrollador de Software Senior,16,140000.0
+39,Hombre,Licenciatura,Especialista en Marketing Senior,10,120000.0
+44,Mujer,Doctorado,bbb,18,160000.0
+29,Hombre,Licenciatura,Analista de Negocios Junior,1,40000.0
+38,Mujer,Otro,Gerente de Producto Senior,10,120000.0
+46,Hombre,Doctorado,Analista de Datos Senior,19,150000.0
+34,Mujer,Licenciatura,Analista de Marketing Junior,6,70000.0
+36,Hombre,Licenciatura,Gerente de Operaciones Senior,8,95000.0
+49,Otro,Maestria,Director de Marketing,21,180000.0
+31,Hombre,Licenciatura,Analista Financiero Junior,3,50000.0
+41,Mujer,Licenciatura,Coordinador de Proyectos Senior,11,95000.0
+47,Hombre,Maestria,Director de Operaciones,20,170000.0
+38,Hombre,Maestria,Consultor de TI Senior,9,110000.0
+45,Mujer,Otro,Diseñador de Producto Senior,15,150000.0
+34,Mujer,Maestria,Asesor Financiero Senior,0,100000.0
+50,Mujer,Doctorado,Director de Operaciones,22,180000.0
+29,Hombre,Licenciatura,Analista de Operaciones de Negocios Junior,1,350.0
+37,Mujer,Licenciatura,Gerente Financiero Senior,10,120000.0
+46,Hombre,Doctorado,Cientifico de Datos Senior,0,160000.0
+31,Mujer,Licenciatura,Coordinador de Marketing Junior,3,50000.0
+42,Hombre,Licenciatura,Gerente de Operaciones Senior,12,110000.0
+29,Mujer,Licenciatura,Representante de Ventas Junior,1,40000.0
+36,Hombre,Licenciatura,Especialista en Marketing Senior,8,95000.0
+44,Otro,Maestria,Senior HR Specialist,15,140000.0
+39,Mujer,Licenciatura,Coordinador de Marketing Senior,9,110000.0
+45,Otro,Otro,Ingeniero de Datos Senior,16,150000.0
+32,Mujer,Licenciatura,Gerente de Marketing Junior,4,60000.0
+37,Hombre,Licenciatura,Analista Financiero Senior,8,90000.0
+47,Mujer,Maestria,Director de Marketing,20,180000.0
+30,Hombre,Licenciatura,Analista de Negocios Junior,2,40000.0
+38,Mujer,Licenciatura,Gerente de Proyectos Senior,9,120000.0
+46,Hombre,Doctorado,Analista de Datos Senior,17,160000.0
+34,Mujer,Licenciatura,Analista Financiero Junior,5,70000.0
+36,Hombre,Otro,Gerente de Producto Senior,8,95000.0
+49,Mujer,Maestria,Director de Operaciones,21,180000.0
+31,Hombre,Licenciatura,Analista de Operaciones Junior,0,50000.0
+41,Mujer,Licenciatura,Otro,11,95000.0
+47,Hombre,Maestria,Director de Marketing,19,170000.0
+29,Mujer,Licenciatura,Asociado de Desarrollo de Negocios Junior,1,35000.0
+35,Hombre,Licenciatura,Gerente Financiero Senior,9,100000.0
+44,Mujer,Doctorado,Diseñador de Producto Senior,15,150000.0
+33,Hombre,Licenciatura,Otro,4,60000.0
+44,Hombre,Licenciatura,Ingeniero de Software Senior,13,130000.0
+32,Hombre,Licenciatura,Gerente de Producto Junior,4,65000.0
+38,Mujer,Licenciatura,Otro,10,110000.0
+49,Hombre,Doctorado,Director de Operaciones,21,180000.0
+29,Mujer,Licenciatura,Otro,2,40000.0
+35,Hombre,Licenciatura,bbb,7,90000.0
+45,Mujer,Maestria,Gerente de Recursos Humanos Senior,14,140000.0
+33,Hombre,Licenciatura,Analista Financiero Junior,4,60000.0
+40,Mujer,Licenciatura,Gerente de Marketing Senior,12,130000.0
+44,Hombre,Doctorado,Cientifico de Datos Senior,16,160000.0
+30,Mujer,Licenciatura,Coordinador de Operaciones Junior,2,40000.0
+37,Hombre,Otro,Analista de Marketing Senior,9,100000.0
+48,Mujer,Maestria,Director de Recursos Humanos,20,180000.0
+38,Mujer,Licenciatura,Coordinador de Operaciones Senior,9,120000.0
+45,Hombre,Doctorado,Ingeniero de Datos Senior,16,150000.0
+33,Mujer,Licenciatura,Gerente de Marketing Junior,5,70000.0
+36,Hombre,Licenciatura,Analista de Negocios Senior,8,95000.0
+49,Mujer,Maestria,Director de Marketing,21,180000.0
+31,Hombre,Licenciatura,Analista de Operaciones Junior,3,50000.0
+42,Mujer,Licenciatura,Gerente de Proyectos Senior,12,120000.0
+47,Hombre,Maestria,Director de Marketing,0,170000.0
+33,Hombre,Licenciatura,Analista de Negocios Junior,4,60000.0
+30,Mujer,Licenciatura,Coordinador de Recursos Humanos Junior,2,40000.0
+37,Hombre,Licenciatura,Gerente de Desarrollo de Negocios Senior,10,120000.0
+45,Mujer,Maestria,Gerente de Marketing Senior,16,160000.0
+32,Hombre,Licenciatura,Asesor Financiero Junior,4,65000.0
+47,Hombre,Otro,Director de Ingenieria,20,180000.0
+36,Hombre,Licenciatura,Gerente de Operaciones Senior,9,100000.0
+43,Mujer,Doctorado,Otro,0,150000.0
+32,Hombre,Licenciatura,Coordinador de Marketing Junior,3,55000.0
+48,Hombre,Maestria,Director de Marketing,21,180000.0
+31,Mujer,Licenciatura,Otro,3,50000.0
+40,Hombre,Licenciatura,Analista Financiero Senior,12,130000.0
+33,Hombre,Licenciatura,Gerente de Producto Junior,4,60000.0
+36,Mujer,Licenciatura,Otro,8,95000.0
+47,Hombre,Maestria,Director de Operaciones,19,170000.0
+29,Mujer,Licenciatura,Gerente de Proyectos Junior,2,40000.0
+34,Hombre,Licenciatura,Coordinador de Operaciones Senior,7,90000.0
+44,Mujer,Doctorado,Analista de Negocios Senior,15,150000.0
+33,Otro,Licenciatura,Especialista en Marketing Junior,5,70000.0
+35,Mujer,Licenciatura,Gerente Financiero Senior,8,90000.0
+43,Hombre,Maestria,Director de Marketing,18,170000.0
+31,Mujer,Licenciatura,Analista Financiero Junior,3,50000.0
+41,Hombre,Licenciatura,Gerente de Producto Senior,14,150000.0
+44,Mujer,Doctorado,Ingeniero de Datos Senior,16,160000.0
+35,Otro,Licenciatura,Analista de Marketing Senior,8,85000.0
+45,Hombre,Maestria,Director de Ingenieria,19,180000.0
+28,Mujer,Licenciatura,Gerente de Operaciones Junior,1,35000.0
+36,Hombre,Licenciatura,Otro,8,110000.0
+44,Mujer,Doctorado,Cientifico de Datos Senior,16,160000.0
+31,Hombre,Licenciatura,Coordinador de Marketing Junior,0,55000.0
+38,Mujer,Licenciatura,Analista de Negocios Senior,10,110000.0
+31,Mujer,Licenciatura,Asociado de Desarrollo de Negocios Junior,3,50000.0
+45,Mujer,Doctorado,Diseñador UX Senior,16,160000.0
+36,Mujer,Licenciatura,Gerente de Marketing Senior,8,95000.0
+29,Mujer,Otro,Gerente de Proyectos Junior,2,40000.0
+33,Hombre,Licenciatura,Especialista en Marketing Junior,5,70000.0
+43,Hombre,Maestria,Director de Operaciones,19,170000.0
+34,Hombre,Otro,Coordinador de Operaciones Senior,7,90000.0
+31,Hombre,Maestria,Cientifico de Datos,6,160000.0
+28,Mujer,Licenciatura,Ingeniero de Software,3,125000.0
+26,Hombre,Maestria,Gerente de Producto,2,120000.0
+27,Mujer,Licenciatura,Analista de Datos,2,110000.0
+30,Hombre,Doctorado,Cientifico de Datos,5,180000.0
+29,Mujer,Licenciatura,Ingeniero de Software,4,140000.0
+32,Hombre,Licenciatura,Gerente de Producto,7,170000.0
+25,Mujer,Maestria,Analista de Datos,1,100000.0
+33,Hombre,Doctorado,Cientifico de Datos,8,190000.0
+31,Mujer,Licenciatura,Ingeniero de Software,6,155000.0
+28,Hombre,Maestria,Gerente de Producto,0,130000.0
+30,Mujer,Licenciatura,Analista de Datos,5,145000.0
+27,Hombre,Otro,Cientifico de Datos,2,115000.0
+34,Hombre,Licenciatura,Gerente de Producto,9,185000.0
+25,Mujer,Maestria,Otro,1,100000.0
+28,Hombre,Maestria,Gerente de Producto,3,130000.0
+30,Otro,Licenciatura,Analista de Datos,5,145000.0
+28,Hombre,Licenciatura,Ingeniero de Software,3,125000.0
+26,Mujer,Maestria,Gerente de Producto,0,120000.0
+27,Hombre,Licenciatura,Analista de Datos,2,110000.0
+30,Mujer,Doctorado,Cientifico de Datos,5,180000.0
+29,Hombre,Licenciatura,Ingeniero de Software,4,140000.0
+27,Hombre,Doctorado,Cientifico de Datos,2,115000.0
+29,Mujer,Otro,Ingeniero de Software,4,140000.0
+26,Mujer,Maestria,Gerente de Producto,2,120000.0
+28,Hombre,Otro,Gerente de Producto,3,130000.0
+27,Hombre,Doctorado,Otro,2,115000.0
+31,Mujer,Licenciatura,Otro,6,155000.0
+30,Mujer,Licenciatura,bbb,5,145000.0
+34,Hombre,Licenciatura,Gerente de Producto,0,185000.0
+28,Hombre,Maestria,Otro,3,130000.0
+30,Mujer,Licenciatura,Analista de Datos,0,145000.0
+33,Hombre,Otro,Cientifico de Datos,8,190000.0
+28,Hombre,Maestria,bbb,3,130000.0
+34,Hombre,Otro,Gerente de Producto,9,185000.0
+31,Mujer,Licenciatura,Ingeniero de Software,0,155000.0
+30,Mujer,Otro,Analista de Datos,5,145000.0
+29,Mujer,Licenciatura,Otro,4,140000.0
+29,Mujer,Maestria,Cientifico de Datos,0,180000.0
+32,Hombre,Licenciatura,Ingeniero de Software,8,190000.0
+27,Mujer,Licenciatura,Gerente de Producto,4,150000.0
+24,Hombre,Licenciatura,Otro,1,90000.0
+31,Mujer,Maestria,Cientifico de Datos,9,195000.0
+28,Hombre,Licenciatura,Ingeniero de Software,0,160000.0
+33,Mujer,Maestria,Gerente de Producto,11,198000.0
+25,Hombre,Licenciatura,Analista de Datos,2,110000.0
+30,Mujer,Otro,Cientifico de Datos,7,185000.0
+27,Hombre,Otro,Ingeniero de Software,4,140000.0
+34,Mujer,Maestria,Gerente de Producto,12,196000.0
+23,Hombre,Licenciatura,Analista de Datos,0,95000.0
+32,Mujer,Doctorado,Cientifico de Datos,10,193000.0
+29,Hombre,Otro,Ingeniero de Software,6,175000.0
+30,Mujer,Licenciatura,Gerente de Producto,5,160000.0
+26,Hombre,Licenciatura,Analista de Datos,3,130000.0
+33,Mujer,Otro,Gerente de Producto,11,198000.0
+24,Hombre,Licenciatura,Analista de Datos,1,90000.0
+27,Hombre,Licenciatura,Ingeniero de Software,4,140000.0
+25,Hombre,Otro,Analista de Datos,2,110000.0
+29,Mujer,Maestria,Otro,6,180000.0
+31,Hombre,Licenciatura,Analista de Datos,9,195000.0
+28,Mujer,Licenciatura,Ingeniero de Software,5,160000.0
+33,Hombre,Maestria,Gerente de Producto,11,198000.0
+26,Mujer,Licenciatura,Analista de Datos,3,130000.0
+30,Hombre,Doctorado,Cientifico de Datos,7,185000.0
+27,Otro,Licenciatura,Ingeniero de Software,4,140000.0
+34,Hombre,Maestria,Gerente de Producto,12,196000.0
+29,Mujer,Maestria,Cientifico de Datos,6,180000.0
+30,Hombre,Licenciatura,Analista de Datos,5,160000.0
+33,Mujer,Maestria,Otro,11,198000.0
+31,Mujer,Doctorado,Cientifico de Datos,9,195000.0
+28,Hombre,Licenciatura,Ingeniero de Software,5,160000.0
+27,Mujer,Otro,Gerente de Producto,4,150000.0
+30,Mujer,Doctorado,Cientifico de Datos,7,185000.0
+27,Otro,Otro,Ingeniero de Software,4,140000.0
+34,Mujer,Maestria,Otro,12,196000.0
+26,Otro,Licenciatura,Analista de Datos,0,130000.0
+27,Hombre,Licenciatura,bbb,4,140000.0
+29,Mujer,Otro,Cientifico de Datos,6,180000.0
+25,Otro,Licenciatura,Analista de Datos,2,110000.0
+25,Mujer,Licenciatura,Analista de Datos,2,110000.0
+31,Otro,Licenciatura,Analista de Datos,9,195000.0
+25,Hombre,Licenciatura,Analista de Datos,2,125000.0
+28,Mujer,Maestria,Cientifico de Datos,6,175000.0
+30,Hombre,Licenciatura,Ingeniero de Software,8,190000.0
+24,Hombre,Licenciatura,Analista de Datos,1,95000.0
+31,Hombre,Maestria,Cientifico de Datos,9,195000.0
+23,Hombre,Licenciatura,Analista de Datos,1,90000.0
+29,Hombre,Licenciatura,Ingeniero de Software,6,170000.0
+26,Hombre,Licenciatura,Analista de Datos,3,135000.0
+31,Mujer,Otro,Otro,6,180000.0
+25,Hombre,Otro,Analista de Datos,2,115000.0
+27,Mujer,Licenciatura,Ingeniero de Software,4,140000.0
+34,Otro,Maestria,Gerente de Producto,12,196000.0
+24,Hombre,Otro,Otro,1,90000.0
+29,Otro,Maestria,Cientifico de Datos,6,180000.0
+32,Hombre,Licenciatura,Otro,8,190000.0
+26,Hombre,Licenciatura,Analista de Datos,0,130000.0
+32,Hombre,Otro,Ingeniero de Software,8,190000.0
+27,Mujer,Maestria,Cientifico de Datos,4,150000.0
+24,Mujer,Licenciatura,Gerente de Producto,3,125000.0
+31,Otro,Maestria,Cientifico de Datos,7,180000.0
+33,Mujer,Maestria,Gerente de Producto,10,195000.0
+30,Mujer,Doctorado,Cientifico de Datos,6,170000.0
+23,Hombre,Licenciatura,Analista de Datos,1,92000.0
+32,Mujer,Doctorado,Cientifico de Datos,9,195000.0
+26,Otro,Licenciatura,Analista de Datos,3,135000.0
+31,Mujer,Maestria,Cientifico de Datos,6,180000.0
+28,Hombre,Licenciatura,Ingeniero de Software,5,165000.0
+25,Hombre,Licenciatura,Analista de Datos,2,115000.0
+30,Otro,Doctorado,Cientifico de Datos,7,185000.0
+32,Otro,Licenciatura,Ingeniero de Software,8,190000.0
+27,Mujer,Licenciatura,Otro,4,150000.0
+28,Otro,Licenciatura,Ingeniero de Software,5,160000.0
+33,Mujer,Maestria,Gerente de Producto,0,198000.0
+26,Hombre,Licenciatura,Otro,3,130000.0
+32,Hombre,Licenciatura,Ingeniero de Software,0,190000.0
+25,Hombre,Otro,Analista de Datos,3,135000.0
+24,Hombre,Licenciatura,Otro,1,95000.0
+33,Mujer,Maestria,Gerente de Producto,11,196000.0
+27,Hombre,Licenciatura,Otro,4,140000.0
+31,Hombre,Licenciatura,Analista de Datos,0,195000.0
+24,Hombre,Licenciatura,Analista de Datos,1,92000.0
+28,Otro,Licenciatura,Ingeniero de Software,0,160000.0
+31,Hombre,Licenciatura,bbb,9,195000.0
+24,Hombre,Licenciatura,Analista de Datos,0,90000.0
+28,Mujer,Licenciatura,Ingeniero de Software,0,160000.0
+32,Hombre,Licenciatura,bbb,8,190000.0
+31,Hombre,Licenciatura,Analista de Datos,0,195000.0
+24,Otro,Licenciatura,Analista de Datos,1,90000.0
+30,Otro,Otro,Otro,7,185000.0
+29,Mujer,Maestria,bbb,6,180000.0
+32,Otro,Titulo de Licenciatura,Analista de Datos,5,135000.0
+27,Mujer,Titulo de Maestria,Cientifico de Datos,3,180000.0
+40,Hombre,Titulo de Licenciatura,Ingeniero de Software,12,195000.0
+35,Mujer,Titulo de Licenciatura,Gerente de Producto,8,165000.0
+43,Hombre,Titulo de Maestria,Cientifico de Datos,15,198000.0
+29,Mujer,Titulo de Licenciatura,Ingeniero de Software,4,150000.0
+36,Hombre,Titulo de Licenciatura,Analista de Datos,9,162000.0
+31,Hombre,Titulo de Maestria,Cientifico de Datos,6,175000.0
+42,Mujer,Titulo de Licenciatura,Ingeniero de Software,13,197000.0
+33,Hombre,Otro,Analista de Datos,0,142000.0
+29,Otro,Titulo de Maestria,Cientifico de Datos,4,182000.0
+41,Hombre,Titulo de Licenciatura,Ingeniero de Software,11,185000.0
+35,Mujer,Titulo de Licenciatura,Gerente de Producto,8,170000.0
+27,Hombre,Licenciatura,Ingeniero de Software,4,160000.0
+32,Hombre,Licenciatura,Cientifico de Datos,8,180000.0
+29,Mujer,Maestria,Analista de Datos,6,150000.0
+30,Otro,Licenciatura,Analista de Datos,0,140000.0
+24,Hombre,Licenciatura,Analista de Datos,2,100000.0
+33,Mujer,Maestria,Gerente de Producto,0,190000.0
+26,Hombre,Licenciatura,Analista de Datos,3,120000.0
+30,Mujer,Doctorado,Cientifico de Datos,7,170000.0
+28,Mujer,Licenciatura,Ingeniero de Software,5,150000.0
+26,Mujer,Otro,Analista de Datos,3,120000.0
+30,Hombre,Doctorado,Cientifico de Datos,7,170000.0
+24,Hombre,Licenciatura,Analista de Datos,2,95000.0
+33,Hombre,Maestria,Gerente de Producto,11,195000.0
+25,Hombre,Licenciatura,Analista de Datos,2,100000.0
+28,Hombre,Licenciatura,Ingeniero de Software,5,150000.0
+29,Mujer,Maestria,Cientifico de Datos,6,150000.0
+33,Otro,Maestria,Otro,11,195000.0
+31,Mujer,Maestria,Cientifico de Datos,6,170000.0
+30,Hombre,Licenciatura,Analista de Datos,5,140000.0
+32,Hombre,Licenciatura,Ingeniero de Software,8,180000.0
+33,Mujer,Maestria,bbb,11,195000.0
+27,Hombre,Licenciatura,Ingeniero de Software,0,160000.0
+34,Mujer,Maestria,Gerente de Producto,12,190000.0
+31,Hombre,Licenciatura,Analista de Datos,9,190000.0
+27,Hombre,Licenciatura,Ingeniero de Software,0,160000.0
+25,Mujer,Licenciatura,Analista de Datos,2,100000.0
+29,Mujer,Maestria,bbb,6,150000.0
+33,Mujer,Maestria,Gerente de Producto,11,195000.0
+26,Hombre,Licenciatura,Analista de Datos,0,120000.0
+29,Mujer,Otro,Cientifico de Datos,6,150000.0
+24,Hombre,Otro,Analista de Datos,2,95000.0
+31,Hombre,Licenciatura,Analista de Datos,0,190000.0
+25,Mujer,Otro,Analista de Datos,2,100000.0
+33,Mujer,Otro,Gerente de Producto,11,195000.0
+28,Mujer,Licenciatura,Ingeniero de Software,0,150000.0
+32,Hombre,Otro,Ingeniero de Software,8,180000.0
+33,Otro,Maestria,Gerente de Producto,11,195000.0
+25,Mujer,Licenciatura,Analista de Datos,0,100000.0
+29,Hombre,Licenciatura,Ingeniero de Software,7,180000.0
+27,Mujer,Licenciatura,Analista de Datos,5,120000.0
+28,Hombre,Otro,Ingeniero de Software,4,160000.0
+26,Mujer,Licenciatura,Analista de Datos,3,100000.0
+31,Hombre,Licenciatura,Gerente de Producto,8,190000.0
+30,Hombre,Maestria,Ingeniero de Software,6,170000.0
+32,Mujer,Licenciatura,Cientifico de Datos,9,185000.0
+29,Hombre,Licenciatura,Analista de Datos,7,130000.0
+35,Mujer,Licenciatura,Gerente de Producto,12,190000.0
+27,Hombre,Licenciatura,Ingeniero de Software,5,150000.0
+28,Mujer,Maestria,Cientifico de Datos,6,150000.0
+37,Hombre,Doctorado,Gerente de Producto,14,195000.0
+26,Hombre,Licenciatura,Analista de Datos,3,110000.0
+30,Mujer,Licenciatura,Ingeniero de Software,8,180000.0
+31,Hombre,Maestria,Cientifico de Datos,0,185000.0
+29,Mujer,Licenciatura,Analista de Datos,7,130000.0
+32,Hombre,Licenciatura,Ingeniero de Software,10,190000.0
+28,Mujer,Maestria,Cientifico de Datos,6,155000.0
+34,Hombre,Licenciatura,Ingeniero de Software,12,195000.0
+25,Mujer,Otro,Analista de Datos,0,90000.0
+30,Hombre,Licenciatura,Otro,8,185000.0
+29,Mujer,Licenciatura,Analista de Datos,6,120000.0
+31,Hombre,Licenciatura,Ingeniero de Software,9,180000.0
+33,Hombre,Maestria,Cientifico de Datos,10,195000.0
+28,Otro,Licenciatura,Ingeniero de Software,4,160000.0
+27,Mujer,Licenciatura,Analista de Datos,0,125000.0
+29,Hombre,Licenciatura,Otro,0,130000.0
+27,Hombre,Otro,Ingeniero de Software,5,150000.0
+28,Mujer,Maestria,Otro,6,150000.0
+31,Hombre,Maestria,Cientifico de Datos,9,185000.0
+25,Mujer,Licenciatura,Analista de Datos,2,90000.0
+30,Hombre,Licenciatura,Gerente de Producto,8,185000.0
+28,Hombre,Licenciatura,Ingeniero de Software,0,160000.0
+27,Mujer,Licenciatura,Analista de Datos,5,125000.0
+28,Mujer,Otro,Cientifico de Datos,0,150000.0
+37,Hombre,Doctorado,bbb,14,195000.0
+29,Mujer,Otro,Analista de Datos,7,130000.0
+31,Otro,Licenciatura,Ingeniero de Software,9,180000.0
+30,Hombre,Maestria,Ingeniero de Software,0,170000.0
+35,Mujer,Otro,Gerente de Producto,12,190000.0
+25,Mujer,Otro,Analista de Datos,2,90000.0
+29,Hombre,Licenciatura,Analista de Datos,0,130000.0
+35,Mujer,Licenciatura,bbb,12,190000.0
+30,Mujer,Otro,Ingeniero de Software,8,180000.0
+34,Otro,Licenciatura,Ingeniero de Software,12,195000.0
+28,Hombre,Titulo de Licenciatura,Ingeniero de Software Senior,7,175000.0
+44,Otro,Doctorado,Gerente de Ingenieros de Software,18,190000.0
+50,Hombre,Doctorado,Ingeniero de Proyectos Senior,16,195000.0
+27,Mujer,Titulo de Maestria,Ingeniero Full Stack,3,100000.0
+25,Hombre,Titulo de Licenciatura,Desarrollador Front End,1,60000.0
+35,Hombre,Titulo de Maestria,Ingeniero de Software Senior,8,155000.0
+47,Mujer,Doctorado,Ingeniero Full Stack,12,175000.0
+46,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,13,180000.0
+32,Hombre,Titulo de Licenciatura,Desarrollador Back End,4,95000.0
+61,Hombre,Doctorado,Gerente de Ingenieros de Software,20,200000.0
+41,Hombre,Titulo de Maestria,Ingeniero de Software Senior,11,165000.0
+37,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,9,145000.0
+53,Hombre,Doctorado,Gerente de Ingenieros de Software,19,195000.0
+30,Mujer,Titulo de Licenciatura,Desarrollador Front End,2,75000.0
+37,Mujer,Titulo de Maestria,Ingeniero de Software Senior,9,155000.0
+32,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,5,115000.0
+44,Mujer,Titulo de Maestria,Ingeniero de Software Senior,12,170000.0
+50,Mujer,Doctorado,bbb,16,190000.0
+27,Hombre,Titulo de Licenciatura,bbb,4,115000.0
+42,Hombre,Doctorado,Ingeniero Full Stack,14,180000.0
+57,Hombre,Doctorado,Gerente de Ingenieros de Software,18,195000.0
+35,Hombre,Titulo de Maestria,Ingeniero de Software Senior,7,140000.0
+62,Hombre,Doctorado,Gerente de Ingenieros de Software,0,200000.0
+26,Mujer,Titulo de Maestria,Desarrollador Back End,2,70000.0
+42,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,11,170000.0
+41,Mujer,Doctorado,Gerente de Ingenieros de Software,14,185000.0
+49,Hombre,Doctorado,Gerente de Ingenieros de Software,15,185000.0
+49,Hombre,Doctorado,Ingeniero de Proyectos Senior,15,185000.0
+47,Hombre,Doctorado,Ingeniero de Software Senior,14,175000.0
+26,Hombre,Titulo de Licenciatura,Desarrollador Front End,2,70000.0
+24,Mujer,Otro,Desarrollador Back End,1,60000.0
+62,Hombre,Doctorado,Gerente de Ingenieros de Software,20,200000.0
+42,Hombre,Doctorado,Ingeniero de Software Senior,14,170000.0
+41,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,11,165000.0
+23,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,1,55000.0
+55,Hombre,Doctorado,Gerente de Ingenieros de Software,17,190000.0
+26,Mujer,Titulo de Maestria,Desarrollador Back End,3,90000.0
+33,Mujer,Titulo de Licenciatura,Desarrollador Front End,5,105000.0
+31,Hombre,Titulo de Maestria,Ingeniero Full Stack,6,130000.0
+50,Mujer,Otro,Gerente de Ingenieros de Software,16,185000.0
+24,Mujer,Titulo de Maestria,Desarrollador Back End,1,60000.0
+56,Hombre,Doctorado,Otro,17,195000.0
+24,Hombre,Titulo de Licenciatura,Desarrollador Front End,1,60000.0
+37,Hombre,Titulo de Maestria,Ingeniero de Software Senior,8,150000.0
+43,Mujer,Doctorado,Ingeniero de Proyectos Senior,13,180000.0
+34,Hombre,Titulo de Maestria,Desarrollador Back End,6,125000.0
+29,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,3,90000.0
+29,Hombre,Titulo de Licenciatura,Desarrollador Front End,3,80000.0
+29,Mujer,Titulo de Licenciatura,Desarrollador Back End,3,85000.0
+48,Hombre,Doctorado,Ingeniero de Proyectos Senior,16,190000.0
+43,Mujer,Titulo de Maestria,Gerente de Ingenieros de Software,11,160000.0
+62,Hombre,Doctorado,Gerente de Ingenieros de Software,19,200000.0
+54,Hombre,Doctorado,Gerente de Ingenieros de Software,17,195000.0
+60,Hombre,Doctorado,Gerente de Ingenieros de Software,18,195000.0
+27,Mujer,Titulo de Maestria,Ingeniero Full Stack,3,95000.0
+23,Hombre,Titulo de Licenciatura,Desarrollador Back End,0,55000.0
+45,Hombre,Doctorado,Ingeniero de Software Senior,13,185000.0
+32,Mujer,Titulo de Maestria,Ingeniero Full Stack,5,120000.0
+57,Hombre,Doctorado,Gerente de Ingenieros de Software,16,195000.0
+47,Hombre,Doctorado,Gerente de Ingenieros de Software,14,175000.0
+25,Mujer,Titulo de Maestria,Otro,2,75000.0
+58,Hombre,Doctorado,Gerente de Ingenieros de Software,17,200000.0
+41,Mujer,Titulo de Maestria,Ingeniero de Software Senior,12,160000.0
+41,Hombre,Doctorado,Gerente de Ingenieros de Software,0,175000.0
+47,Hombre,Doctorado,Ingeniero de Software Senior,15,180000.0
+24,Mujer,Titulo de Licenciatura,Desarrollador Back End,1,60000.0
+32,Otro,Titulo de Licenciatura,Ingeniero Full Stack,5,120000.0
+45,Hombre,Doctorado,Ingeniero de Proyectos Senior,14,185000.0
+50,Mujer,Doctorado,Gerente de Ingenieros de Software,16,190000.0
+53,Hombre,Doctorado,Gerente de Ingenieros de Software,18,195000.0
+47,Mujer,Doctorado,Ingeniero de Software Senior,14,170000.0
+23,Hombre,Titulo de Licenciatura,Desarrollador Front End,1,55000.0
+33,Hombre,Titulo de Maestria,Desarrollador Back End,6,130000.0
+42,Hombre,Doctorado,Gerente de Ingenieros de Software,14,180000.0
+45,Otro,Doctorado,Ingeniero de Proyectos Senior,14,185000.0
+37,Hombre,Titulo de Maestria,Ingeniero de Software Senior,9,145000.0
+44,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,12,170000.0
+38,Mujer,Titulo de Maestria,Desarrollador Back End,10,155000.0
+34,Hombre,Titulo de Maestria,Ingeniero Full Stack,6,125000.0
+46,Mujer,Otro,Gerente de Ingenieros de Software,14,180000.0
+30,Hombre,Titulo de Licenciatura,Desarrollador Back End,4,95000.0
+44,Mujer,Titulo de Maestria,Ingeniero de Software Senior,11,170000.0
+27,Mujer,Titulo de Maestria,bbb,3,100000.0
+42,Hombre,Doctorado,Ingeniero de Proyectos Senior,14,175000.0
+54,Hombre,Doctorado,Gerente de Ingenieros de Software,18,195000.0
+38,Hombre,Otro,Ingeniero de Software Senior,10,155000.0
+31,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,6,125000.0
+28,Mujer,Titulo de Maestria,Ingeniero Full Stack,4,110000.0
+30,Mujer,Titulo de Maestria,Desarrollador Back End,6,130000.0
+54,Hombre,Doctorado,Gerente de Ingenieros de Software,16,190000.0
+37,Hombre,Titulo de Maestria,Otro,9,150000.0
+31,Hombre,Titulo de Maestria,Ingeniero de Software Senior,7,140000.0
+58,Mujer,Doctorado,Gerente de Ingenieros de Software,17,195000.0
+56,Hombre,Doctorado,Gerente de Ingenieros de Software,17,195000.0
+23,Mujer,Titulo de Licenciatura,Desarrollador Back End,1,55000.0
+49,Hombre,Otro,Gerente de Ingenieros de Software,0,185000.0
+32,Mujer,Titulo de Maestria,Ingeniero Full Stack,0,120000.0
+52,Mujer,Doctorado,Gerente de Ingenieros de Software,16,190000.0
+32,Mujer,Titulo de Maestria,Ingeniero Full Stack,6,130000.0
+32,Hombre,Titulo de Maestria,Desarrollador Back End,6,130000.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Front End,2,70000.0
+44,Otro,Titulo de Maestria,Ingeniero de Proyectos Senior,11,170000.0
+55,Hombre,Otro,Gerente de Ingenieros de Software,17,190000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Front End,3,80000.0
+46,Hombre,Doctorado,Gerente de Ingenieros de Software,14,180000.0
+27,Mujer,Titulo de Maestria,Desarrollador Back End,2,70000.0
+23,Mujer,Titulo de Licenciatura,Desarrollador Front End,1,55000.0
+36,Otro,Titulo de Maestria,Ingeniero Full Stack,8,140000.0
+43,Hombre,Doctorado,Gerente de Ingenieros de Software,13,180000.0
+28,Mujer,Titulo de Licenciatura,Desarrollador Front End,2,70000.0
+43,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,12,165000.0
+43,Hombre,Doctorado,Ingeniero de Proyectos Senior,13,185000.0
+36,Hombre,Titulo de Maestria,Ingeniero de Software Senior,7,140000.0
+28,Mujer,Titulo de Licenciatura,Desarrollador Front End,3,80000.0
+37,Hombre,Titulo de Maestria,Ingeniero de Software Senior,9,150000.0
+28,Mujer,Titulo de Maestria,Desarrollador Back End,3,90000.0
+43,Hombre,Doctorado,Ingeniero de Software Senior,12,170000.0
+44,Hombre,Doctorado,Ingeniero de Proyectos Senior,12,170000.0
+37,Hombre,Titulo de Maestria,Ingeniero de Software Senior,10,155000.0
+56,Hombre,Doctorado,Gerente de Ingenieros de Software,18,195000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Front End,2,70000.0
+48,Otro,Doctorado,Ingeniero de Proyectos Senior,0,190000.0
+31,Hombre,Titulo de Maestria,Ingeniero Full Stack,7,140000.0
+46,Otro,Otro,Gerente de Ingenieros de Software,14,180000.0
+33,Hombre,Titulo de Maestria,Ingeniero Full Stack,6,130000.0
+41,Hombre,Doctorado,Ingeniero de Proyectos Senior,0,165000.0
+28,Otro,Titulo de Maestria,Ingeniero Full Stack,4,110000.0
+30,Hombre,Titulo de Licenciatura,Desarrollador Back End,0,95000.0
+38,Hombre,Titulo de Maestria,Ingeniero de Software Senior,10,155000.0
+31,Otro,Titulo de Maestria,Ingeniero de Proyectos Senior,6,125000.0
+24,Mujer,Titulo de Licenciatura,Desarrollador Front End,1,55000.0
+28,Mujer,Otro,Desarrollador Front End,3,80000.0
+43,Hombre,Doctorado,Otro,0,185000.0
+43,Hombre,Doctorado,Ingeniero de Proyectos Senior,12,165000.0
+58,Hombre,Doctorado,Gerente de Ingenieros de Software,17,195000.0
+29,Mujer,Titulo de Licenciatura,Desarrollador Front End,3,85000.0
+52,Otro,Doctorado,Gerente de Ingenieros de Software,18,200000.0
+36,Hombre,Titulo de Maestria,Ingeniero Full Stack,8,140000.0
+26,Hombre,Titulo de Licenciatura,Desarrollador Back End,0,65000.0
+32,Hombre,Titulo de Maestria,Ingeniero Full Stack,6,120000.0
+57,Hombre,Doctorado,Gerente de Ingenieros de Software,18,200000.0
+51,Hombre,Doctorado,Gerente de Ingenieros de Software,16,190000.0
+46,Hombre,Doctorado,Otro,14,180000.0
+27,Mujer,Titulo de Maestria,Desarrollador Back End,0,65000.0
+36,Hombre,Titulo de Maestria,Ingeniero Full Stack,7,130000.0
+33,Mujer,Titulo de Maestria,Ingeniero Full Stack,5,120000.0
+38,Mujer,Titulo de Maestria,Desarrollador Back End,0,155000.0
+25,Hombre,Titulo de Licenciatura,Desarrollador Front End,0,55000.0
+41,Otro,Doctorado,Ingeniero de Proyectos Senior,12,165000.0
+28,Mujer,Titulo de Maestria,Ingeniero Full Stack,0,110000.0
+28,Hombre,Otro,Desarrollador Front End,2,70000.0
+54,Hombre,Doctorado,Otro,16,190000.0
+49,Hombre,Otro,Gerente de Ingenieros de Software,15,185000.0
+38,Hombre,Titulo de Maestria,Ingeniero de Software Senior,0,155000.0
+44,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,11,170000.0
+24,Otro,Titulo de Licenciatura,Desarrollador Back End,1,60000.0
+27,Hombre,Titulo de Licenciatura,bbb,2,70000.0
+40,Hombre,Doctorado,Ingeniero de Software Senior,12,160000.0
+36,Hombre,Titulo de Maestria,Ingeniero de Software Senior,8,140000.0
+44,Hombre,Titulo de Maestria,Otro,11,170000.0
+38,Otro,Titulo de Maestria,Ingeniero de Software Senior,0,155000.0
+31,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,0,135000.0
+24,Hombre,Titulo de Licenciatura,Desarrollador Back End,1,55000.0
+27,Hombre,Titulo de Licenciatura,bbb,3,80000.0
+44,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,0,170000.0
+37,Hombre,Titulo de Maestria,Otro,0,150000.0
+31,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,7,135000.0
+54,Hombre,Doctorado,Gerente de Ingenieros de Software,0,195000.0
+27,Otro,Titulo de Maestria,Desarrollador Back End,0,70000.0
+34,Hombre,Titulo de Licenciatura,Desarrollador Front End,5,95000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Back End,2,75000.0
+56,Mujer,Doctorado,Gerente de Ingenieros de Software,18,210000.0
+32,Hombre,Titulo de Maestria,Ingeniero Full Stack,7,135000.0
+41,Mujer,Doctorado,Ingeniero de Proyectos Senior,11,165000.0
+34,Hombre,Titulo de Licenciatura,Desarrollador Back End,6,120000.0
+31,Hombre,Titulo de Maestria,bbb,6,125000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Front End,0,70000.0
+31,Otro,Titulo de Maestria,Ingeniero de Software Senior,7,140000.0
+27,Hombre,Titulo de Licenciatura,Otro,3,80000.0
+48,Hombre,Doctorado,Ingeniero de Proyectos Senior,0,190000.0
+40,Mujer,Doctorado,Otro,12,160000.0
+24,Hombre,Titulo de Licenciatura,Desarrollador Front End,1,55000.0
+24,Mujer,Titulo de Licenciatura,Desarrollador Front End,0,55000.0
+48,Hombre,Otro,Ingeniero de Proyectos Senior,16,190000.0
+43,Hombre,Otro,Ingeniero de Proyectos Senior,0,185000.0
+37,Hombre,Titulo de Maestria,bbb,9,150000.0
+43,Hombre,Doctorado,Otro,13,185000.0
+43,Otro,Doctorado,Ingeniero de Proyectos Senior,13,185000.0
+37,Hombre,Titulo de Maestria,Ingeniero de Software Senior,0,150000.0
+38,Hombre,Titulo de Maestria,Ingeniero de Software Senior,0,155000.0
+36,Hombre,Titulo de Licenciatura,Desarrollador Front End,7,120000.0
+29,Mujer,Titulo de Maestria,bbb,3,90000.0
+41,Mujer,Doctorado,Gerente de Ingenieros de Software,14,180000.0
+33,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,7,130000.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Back End,2,70000.0
+55,Otro,Doctorado,Gerente de Ingenieros de Software,18,210000.0
+26,Mujer,Titulo de Maestria,Desarrollador Front End,1,55000.0
+47,Hombre,Doctorado,Ingeniero de Proyectos Senior,16,190000.0
+44,Mujer,Doctorado,Gerente de Ingenieros de Software,11,165000.0
+30,Hombre,Titulo de Maestria,Ingeniero Full Stack,5,105000.0
+39,Mujer,Titulo de Maestria,Ingeniero de Software Senior,11,160000.0
+32,Hombre,Titulo de Licenciatura,Desarrollador Front End,6,110000.0
+50,Hombre,Otro,Gerente de Ingenieros de Software,17,195000.0
+27,Hombre,Titulo de Licenciatura,Otro,3,85000.0
+46,Hombre,Doctorado,Ingeniero de Proyectos Senior,14,180000.0
+25,Mujer,Titulo de Licenciatura,Desarrollador Front End,1,55000.0
+43,Hombre,Doctorado,Ingeniero de Proyectos Senior,0,185000.0
+35,Hombre,Titulo de Licenciatura,Desarrollador Back End,8,140000.0
+40,Mujer,Doctorado,Ingeniero de Software Senior,0,160000.0
+35,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,8,145000.0
+41,Hombre,Doctorado,Ingeniero de Proyectos Senior,0,185000.0
+33,Hombre,Titulo de Licenciatura,Desarrollador Front End,6,110000.0
+55,Hombre,Doctorado,Gerente de Ingenieros de Software,18,210000.0
+50,Hombre,Doctorado,Gerente de Ingenieros de Software,17,195000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Back End,3,85000.0
+29,Mujer,Titulo de Maestria,Desarrollador Back End,3,90000.0
+40,Mujer,Doctorado,Ingeniero de Software Senior,12,160000.0
+41,Hombre,Doctorado,Ingeniero de Proyectos Senior,13,185000.0
+46,Hombre,Doctorado,bbb,14,180000.0
+44,Mujer,Doctorado,Gerente de Ingenieros de Software,0,165000.0
+39,Mujer,Titulo de Maestria,Ingeniero de Software Senior,0,160000.0
+43,Hombre,Otro,Ingeniero de Proyectos Senior,13,185000.0
+41,Hombre,Otro,Ingeniero de Proyectos Senior,13,185000.0
+30,Hombre,Titulo de Maestria,Otro,5,105000.0
+50,Hombre,Doctorado,Gerente de Ingenieros de Software,0,195000.0
+27,Hombre,Otro,Desarrollador Back End,0,85000.0
+30,Otro,Titulo de Maestria,Ingeniero Full Stack,5,105000.0
+31,Hombre,Titulo de Licenciatura,Desarrollador Front End,6,115000.0
+42,Mujer,Titulo de Maestria,Gerente de Ingenieros de Software,13,170000.0
+34,Mujer,Titulo de Maestria,Ingeniero Full Stack,7,130000.0
+38,Hombre,Titulo de Licenciatura,Gerente de Ingenieros de Software,11,155000.0
+43,Mujer,Doctorado,Ingeniero de Proyectos Senior,14,190000.0
+36,Hombre,Titulo de Maestria,Desarrollador Back End,8,140000.0
+48,Hombre,Doctorado,Gerente de Ingenieros de Software,16,185000.0
+35,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,0,145000.0
+30,Mujer,Titulo de Maestria,Desarrollador Front End,4,90000.0
+50,Hombre,Doctorado,Ingeniero de Proyectos Senior,18,195000.0
+29,Hombre,Titulo de Licenciatura,Desarrollador Back End,4,95000.0
+41,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,13,170000.0
+33,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,0,115000.0
+45,Hombre,Doctorado,Ingeniero de Proyectos Senior,16,185000.0
+28,Mujer,Titulo de Licenciatura,Desarrollador Front End,2,65000.0
+39,Mujer,Titulo de Maestria,Gerente de Ingenieros de Software,12,160000.0
+30,Hombre,Titulo de Licenciatura,Desarrollador Back End,5,100000.0
+46,Hombre,Doctorado,Ingeniero de Proyectos Senior,15,180000.0
+42,Hombre,Doctorado,Otro,14,190000.0
+31,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,6,115000.0
+49,Mujer,Doctorado,Ingeniero de Proyectos Senior,17,195000.0
+36,Hombre,Titulo de Maestria,Desarrollador Back End,0,150000.0
+33,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,6,115000.0
+45,Hombre,Doctorado,Gerente de Ingenieros de Software,16,185000.0
+30,Hombre,Titulo de Licenciatura,Otro,5,100000.0
+42,Hombre,Otro,Gerente de Ingenieros de Software,14,190000.0
+31,Hombre,Otro,Ingeniero Full Stack,6,115000.0
+36,Hombre,Titulo de Maestria,Desarrollador Back End,9,150000.0
+25,Mujer,Titulo de Licenciatura,Otro,1,55000.0
+42,Hombre,Doctorado,Gerente de Ingenieros de Software,14,190000.0
+33,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,0,115000.0
+25,Otro,Titulo de Licenciatura,Desarrollador Front End,1,55000.0
+46,Hombre,Doctorado,Ingeniero de Proyectos Senior,0,180000.0
+33,Mujer,Otro,Ingeniero Full Stack,6,115000.0
+45,Hombre,Doctorado,Gerente de Ingenieros de Software,0,185000.0
+39,Otro,Titulo de Maestria,Gerente de Ingenieros de Software,12,160000.0
+42,Hombre,Doctorado,Gerente de Ingenieros de Software,0,190000.0
+28,Mujer,Titulo de Licenciatura,Desarrollador Front End,0,65000.0
+25,Mujer,Titulo de Licenciatura,Desarrollador Front End,1,550.0
+29,Hombre,Titulo de Licenciatura,Desarrollador Front End,4,90000.0
+40,Mujer,Titulo de Maestria,Gerente de Ingenieros de Software,12,160000.0
+27,Mujer,Titulo de Licenciatura,Desarrollador Back End,3,80000.0
+33,Mujer,Titulo de Maestria,Ingeniero Full Stack,6,115000.0
+37,Hombre,Titulo de Licenciatura,Gerente de Ingenieros de Software,10,150000.0
+44,Mujer,Doctorado,Ingeniero de Proyectos Senior,14,190000.0
+35,Hombre,Titulo de Maestria,Desarrollador Back End,8,140000.0
+47,Hombre,Doctorado,Gerente de Ingenieros de Software,16,185000.0
+34,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,7,130000.0
+31,Mujer,Titulo de Maestria,Desarrollador Front End,5,105000.0
+51,Hombre,Doctorado,Ingeniero de Proyectos Senior,19,200000.0
+42,Otro,Titulo de Maestria,Gerente de Ingenieros de Software,13,170000.0
+45,Hombre,Doctorado,Otro,16,185000.0
+29,Mujer,Titulo de Licenciatura,Desarrollador Front End,4,90000.0
+27,Hombre,Titulo de Licenciatura,Otro,0,80000.0
+49,Otro,Doctorado,Ingeniero de Proyectos Senior,17,195000.0
+36,Hombre,Titulo de Licenciatura,Gerente de Ingenieros de Software,8,135000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Front End,2,65000.0
+46,Hombre,Doctorado,Gerente de Ingenieros de Software,16,185000.0
+33,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,7,130000.0
+30,Mujer,Titulo de Maestria,Desarrollador Front End,5,105000.0
+50,Hombre,Doctorado,Ingeniero de Proyectos Senior,19,200000.0
+30,Hombre,Titulo de Licenciatura,bbb,5,100000.0
+42,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,13,170000.0
+27,Hombre,Otro,Desarrollador Back End,3,80000.0
+32,Mujer,Titulo de Maestria,Ingeniero Full Stack,6,115000.0
+34,Hombre,Titulo de Maestria,Desarrollador Back End,8,140000.0
+42,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,0,170000.0
+49,Hombre,Doctorado,Ingeniero de Proyectos Senior,17,195000.0
+30,Otro,Titulo de Licenciatura,Otro,5,100000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Back End,3,80000.0
+32,Otro,Titulo de Maestria,Ingeniero Full Stack,6,115000.0
+27,Hombre,Titulo de Licenciatura,bbb,2,65000.0
+29,Mujer,Otro,Desarrollador Front End,4,90000.0
+50,Hombre,Otro,Ingeniero de Proyectos Senior,19,200000.0
+30,Hombre,Otro,Desarrollador Back End,5,100000.0
+27,Otro,Titulo de Licenciatura,Desarrollador Front End,2,65000.0
+29,Mujer,Titulo de Licenciatura,Otro,4,90000.0
+31,Mujer,Titulo de Licenciatura,Desarrollador Front End,6,110000.0
+37,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,10,150000.0
+45,Otro,Doctorado,Ingeniero de Proyectos Senior,0,185000.0
+49,Hombre,Doctorado,Otro,17,195000.0
+27,Hombre,Otro,Otro,2,65000.0
+33,Mujer,Otro,Ingeniero Full Stack,0,130000.0
+45,Hombre,Doctorado,Ingeniero de Proyectos Senior,0,185000.0
+32,Mujer,Titulo de Maestria,Otro,6,115000.0
+36,Hombre,Titulo de Licenciatura,bbb,8,135000.0
+43,Mujer,Otro,Ingeniero de Proyectos Senior,14,190000.0
+29,Mujer,Titulo de Licenciatura,bbb,4,90000.0
+49,Hombre,Otro,Ingeniero de Proyectos Senior,17,195000.0
+43,Mujer,Doctorado,Otro,14,190000.0
+46,Otro,Doctorado,Gerente de Ingenieros de Software,16,185000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Back End,0,80000.0
+33,Mujer,Titulo de Licenciatura,Otro,7,130000.0
+31,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,8,130000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Back End,0,80000.0
+43,Hombre,Doctorado,Ingeniero de Proyectos Senior,15,180000.0
+35,Mujer,Titulo de Maestria,Ingeniero Full Stack,8,140000.0
+28,Mujer,Titulo de Licenciatura,Desarrollador Front End,2,55000.0
+44,Mujer,Doctorado,Ingeniero de Proyectos Senior,16,190000.0
+32,Hombre,Titulo de Maestria,Desarrollador Back End,7,120000.0
+48,Hombre,Doctorado,Gerente de Ingenieros de Software,18,200000.0
+30,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,5,100000.0
+34,Hombre,Titulo de Maestria,Desarrollador Front End,9,150000.0
+37,Mujer,Titulo de Licenciatura,Gerente de Ingenieros de Software,11,170000.0
+26,Hombre,Titulo de Licenciatura,Desarrollador Back End,2,65000.0
+49,Mujer,Doctorado,Ingeniero de Proyectos Senior,19,210000.0
+29,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,4,90000.0
+41,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,14,180000.0
+36,Hombre,Titulo de Licenciatura,Gerente de Ingenieros de Software,0,135000.0
+45,Hombre,Otro,Ingeniero de Proyectos Senior,16,185000.0
+39,Mujer,Titulo de Maestria,Otro,12,160000.0
+32,Mujer,Otro,Ingeniero Full Stack,6,115000.0
+46,Hombre,Doctorado,Gerente de Ingenieros de Software,0,185000.0
+46,Mujer,Doctorado,Ingeniero de Proyectos Senior,16,185000.0
+30,Hombre,Titulo de Maestria,Desarrollador Front End,5,105000.0
+50,Hombre,Doctorado,Gerente de Ingenieros de Software,20,210000.0
+39,Mujer,Titulo de Maestria,Gerente de Ingenieros de Software,11,170000.0
+32,Hombre,Otro,Desarrollador Back End,7,120000.0
+48,Hombre,Otro,Gerente de Ingenieros de Software,19,200000.0
+37,Mujer,Otro,Gerente de Ingenieros de Software,11,170000.0
+49,Otro,Doctorado,Otro,19,210000.0
+46,Hombre,Otro,Gerente de Ingenieros de Software,16,185000.0
+50,Otro,Doctorado,Ingeniero de Proyectos Senior,19,200000.0
+34,Hombre,Titulo de Maestria,Desarrollador Back End,0,140000.0
+27,Hombre,Otro,bbb,3,80000.0
+28,Hombre,Titulo de Licenciatura,Ingeniero de Software,4,75000.0
+33,Mujer,Titulo de Maestria,Analista de Datos,7,95000.0
+22,Hombre,Titulo de Licenciatura,Desarrollador Front End,1,50000.0
+44,Hombre,Doctorado,Cientifico de Datos Senior,15,180000.0
+29,Mujer,Titulo de Licenciatura,Desarrollador de Software,3,65000.0
+31,Hombre,Titulo de Maestria,Gerente de Producto,6,120000.0
+25,Otro,Titulo de Maestria,Ingeniero de Software,2,60000.0
+38,Hombre,Titulo de Licenciatura,Otro,10,150000.0
+27,Hombre,Titulo de Licenciatura,Ingeniero de Software,3,70000.0
+46,Mujer,Doctorado,Otro,20,220000.0
+33,Hombre,Titulo de Maestria,Analista de Datos,0,100000.0
+24,Mujer,Titulo de Licenciatura,Desarrollador de Software,2,55000.0
+36,Hombre,Doctorado,Cientifico de Datos Senior,12,170000.0
+30,Mujer,Titulo de Licenciatura,Ingeniero de Software,5,90000.0
+29,Hombre,Titulo de Licenciatura,Desarrollador Front End,4,80000.0
+42,Hombre,Titulo de Maestria,Gerente de Producto,14,180000.0
+26,Hombre,Titulo de Licenciatura,bbb,2,60000.0
+35,Mujer,Titulo de Maestria,Analista de Datos,9,120000.0
+27,Mujer,Titulo de Licenciatura,Ingeniero de Software,3,70000.0
+48,Hombre,Doctorado,Director de Ciencia de Datos,18,210000.0
+34,Hombre,Titulo de Maestria,Cientifico de Datos,9,140000.0
+23,Mujer,Titulo de Licenciatura,Ingeniero de Software,1,50000.0
+32,Hombre,Titulo de Maestria,Gerente de Producto,7,110000.0
+25,Mujer,Titulo de Maestria,Ingeniero de Software,2,60000.0
+37,Hombre,Titulo de Licenciatura,Analista de Datos,11,160000.0
+28,Otro,Titulo de Licenciatura,Ingeniero de Software,4,75000.0
+41,Mujer,Doctorado,Director de Ciencia de Datos,16,200000.0
+34,Hombre,Titulo de Maestria,Analista de Datos,8,100000.0
+29,Hombre,Titulo de Licenciatura,Desarrollador Front End,0,80000.0
+26,Hombre,Titulo de Licenciatura,Desarrollador de Software,2,60000.0
+34,Otro,Titulo de Maestria,Cientifico de Datos,9,140000.0
+48,Hombre,Doctorado,bbb,18,210000.0
+37,Hombre,Otro,Analista de Datos,11,160000.0
+29,Hombre,Otro,Desarrollador Front End,4,80000.0
+34,Hombre,Titulo de Maestria,Otro,9,140000.0
+41,Mujer,Doctorado,Director de Ciencia de Datos,0,200000.0
+24,Mujer,Titulo de Licenciatura,Desarrollador de Software,0,55000.0
+27,Mujer,Otro,Ingeniero de Software,3,70000.0
+25,Mujer,Otro,Ingeniero de Software,2,60000.0
+41,Mujer,Doctorado,Otro,16,200000.0
+32,Otro,Titulo de Maestria,Gerente de Producto,7,110000.0
+28,Hombre,Titulo de Licenciatura,Otro,4,75000.0
+42,Hombre,Otro,Gerente de Producto,14,180000.0
+26,Otro,Titulo de Licenciatura,Desarrollador de Software,2,60000.0
+34,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,8,122485.0
+25,Hombre,Doctorado,Gerente de Ingenieros de Software,12,169159.0
+43,Hombre,Titulo de Maestria,Ingeniero de Software Senior,21,187081.0
+53,Otro,Escuela Secundaria,Otro,31,166109.0
+27,Mujer,Titulo de Maestria,Desarrollador Front End,5,78354.0
+25,Hombre,Titulo de Licenciatura,Desarrollador Back End,2,90249.0
+29,Mujer,Titulo de Maestria,Otro,6,132720.0
+52,Hombre,Doctorado,Gerente de Ingenieros de Software,23,161568.0
+41,Hombre,Titulo de Maestria,Desarrollador Front End,13,127346.0
+49,Mujer,Titulo de Licenciatura,Desarrollador Back End,19,120177.0
+25,Otro,Escuela Secundaria,Ingeniero Full Stack,2,69032.0
+35,Hombre,Titulo de Maestria,bbb,8,101332.0
+57,Mujer,Doctorado,Ingeniero Full Stack,30,121450.0
+35,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,12,166375.0
+43,Hombre,Titulo de Maestria,Ingeniero de Software Senior,21,185119.0
+50,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,21,166512.0
+52,Mujer,Titulo de Maestria,Ingeniero de Software Senior,28,186963.0
+26,Hombre,Titulo de Licenciatura,Desarrollador Back End,3,75072.0
+34,Mujer,Titulo de Maestria,Ingeniero Full Stack,0,163398.0
+30,Hombre,Escuela Secundaria,Ingeniero de Proyectos Senior,11,103947.0
+60,Mujer,Doctorado,Gerente de Ingenieros de Software,33,179180.0
+50,Hombre,Titulo de Licenciatura,Desarrollador Back End,23,175966.0
+58,Hombre,Titulo de Maestria,Ingeniero de Software Senior,27,190004.0
+35,Mujer,Otro,Otro,0,152039.0
+57,Otro,Doctorado,Otro,33,191790.0
+46,Mujer,Titulo de Licenciatura,Ingeniero de Software Senior,20,139398.0
+28,Hombre,Escuela Secundaria,Desarrollador Back End,7,95845.0
+34,Hombre,Titulo de Maestria,Otro,12,160976.0
+33,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,9,126753.0
+37,Otro,Titulo de Maestria,Ingeniero Full Stack,14,161393.0
+33,Hombre,Titulo de Maestria,Ingeniero de Software Senior,8,139817.0
+53,Hombre,Doctorado,Gerente de Ingenieros de Software,25,181714.0
+35,Mujer,Titulo de Licenciatura,Desarrollador Back End,10,114776.0
+30,Hombre,Titulo de Maestria,Ingeniero Full Stack,6,105725.0
+24,Otro,Escuela Secundaria,Ingeniero de Proyectos Senior,1,52731.0
+36,Hombre,Titulo de Maestria,Otro,8,106492.0
+27,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,4,73895.0
+23,Hombre,Doctorado,Gerente de Ingenieros de Software,1,119836.0
+28,Mujer,Titulo de Maestria,Otro,5,99747.0
+52,Hombre,Titulo de Licenciatura,Desarrollador Back End,25,168287.0
+28,Mujer,Titulo de Maestria,Ingeniero Full Stack,7,115920.0
+32,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,11,128078.0
+24,Mujer,Titulo de Licenciatura,Desarrollador Front End,1,51265.0
+43,Hombre,Escuela Secundaria,Ingeniero de Software Senior,22,165919.0
+60,Mujer,Doctorado,Gerente de Ingenieros de Software,34,188651.0
+24,Hombre,Titulo de Maestria,Desarrollador Back End,0,55538.0
+55,Hombre,Titulo de Licenciatura,Otro,28,193964.0
+29,Otro,Titulo de Maestria,Ingeniero Full Stack,4,104702.0
+44,Hombre,Doctorado,Gerente de Ingenieros de Software,0,172955.0
+40,Mujer,Titulo de Maestria,Ingeniero de Software Senior,16,138032.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Back End,4,82683.0
+43,Hombre,Titulo de Maestria,Otro,17,155414.0
+49,Mujer,Escuela Secundaria,Ingeniero de Proyectos Senior,25,154207.0
+42,Mujer,Titulo de Licenciatura,Ingeniero de Software Senior,18,148446.0
+41,Mujer,Doctorado,Gerente de Ingenieros de Software,13,138662.0
+46,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,23,181699.0
+57,Mujer,Titulo de Maestria,Ingeniero Full Stack,33,188232.0
+22,Mujer,Escuela Secundaria,Desarrollador Back End,0,51832.0
+54,Otro,Doctorado,Gerente de Ingenieros de Software,28,188484.0
+42,Mujer,Titulo de Maestria,Ingeniero de Software Senior,16,138286.0
+49,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,22,181132.0
+27,Mujer,Titulo de Maestria,Desarrollador Back End,4,73938.0
+36,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,14,119224.0
+39,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,14,142360.0
+48,Hombre,Doctorado,Ingeniero Full Stack,23,181021.0
+48,Otro,Titulo de Licenciatura,Desarrollador Front End,23,173851.0
+31,Otro,Escuela Secundaria,Desarrollador Back End,8,104127.0
+47,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,25,178859.0
+29,Mujer,Doctorado,Ingeniero Full Stack,5,98568.0
+38,Mujer,Titulo de Maestria,Ingeniero de Software Senior,13,134858.0
+34,Hombre,Titulo de Licenciatura,Desarrollador Back End,10,94502.0
+34,Otro,Titulo de Licenciatura,Ingeniero Full Stack,0,122485.0
+53,Otro,Escuela Secundaria,Ingeniero de Proyectos Senior,31,166109.0
+29,Mujer,Titulo de Maestria,Ingeniero de Software Senior,6,132720.0
+35,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,8,101332.0
+37,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,10,149217.0
+50,Hombre,Titulo de Maestria,bbb,21,166512.0
+34,Mujer,Titulo de Maestria,Ingeniero Full Stack,10,163398.0
+30,Hombre,Escuela Secundaria,Ingeniero de Proyectos Senior,0,103947.0
+35,Mujer,Titulo de Maestria,Ingeniero Full Stack,10,152039.0
+28,Hombre,Titulo de Maestria,Desarrollador Front End,0,76742.0
+57,Mujer,Doctorado,Gerente de Ingenieros de Software,33,191790.0
+24,Mujer,Escuela Secundaria,Ingeniero de Proyectos Senior,1,52731.0
+36,Hombre,Titulo de Maestria,Desarrollador Front End,8,106492.0
+27,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,0,73895.0
+28,Mujer,Titulo de Maestria,Ingeniero de Software Senior,5,99747.0
+55,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,28,193964.0
+44,Hombre,Doctorado,Gerente de Ingenieros de Software,19,172955.0
+43,Hombre,Titulo de Maestria,Ingeniero Full Stack,17,155414.0
+30,Hombre,Titulo de Maestria,Desarrollador Front End,8,107895.0
+26,Hombre,Titulo de Maestria,Ingeniero Full Stack,4,102859.0
+54,Hombre,Doctorado,Gerente de Ingenieros de Software,28,188484.0
+42,Mujer,Titulo de Maestria,Ingeniero de Software Senior,0,138286.0
+39,Hombre,Otro,Gerente de Ingenieros de Software,14,142360.0
+41,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,20,151315.0
+39,Mujer,Titulo de Maestria,Ingeniero de Software Senior,15,134641.0
+48,Hombre,Titulo de Licenciatura,Desarrollador Front End,23,173851.0
+36,Hombre,Titulo de Licenciatura,Desarrollador Front End,14,139095.0
+30,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,5,106278.0
+28,Hombre,Titulo de Maestria,Ingeniero Full Stack,4,90452.0
+46,Mujer,Doctorado,Gerente de Ingenieros de Software,0,168304.0
+34,Hombre,Titulo de Licenciatura,Desarrollador Back End,10,126593.0
+44,Hombre,Titulo de Maestria,bbb,19,152203.0
+55,Mujer,Doctorado,Gerente de Ingenieros de Software,30,183138.0
+35,Hombre,Titulo de Maestria,Ingeniero Full Stack,9,130275.0
+54,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,29,191915.0
+23,Mujer,Escuela Secundaria,Desarrollador Back End,2,62807.0
+33,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,9,133326.0
+26,Hombre,Titulo de Maestria,Desarrollador Front End,4,75656.0
+43,Mujer,Doctorado,Gerente de Ingenieros de Software,19,155944.0
+36,Hombre,Titulo de Maestria,Ingeniero Full Stack,11,137775.0
+23,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,0,51831.0
+49,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,22,182237.0
+35,Mujer,Titulo de Maestria,Ingeniero Full Stack,10,151901.0
+43,Hombre,Titulo de Maestria,Ingeniero Full Stack,20,167207.0
+33,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,10,112439.0
+52,Mujer,Doctorado,Gerente de Ingenieros de Software,0,194214.0
+28,Hombre,Titulo de Licenciatura,Otro,5,84407.0
+36,Mujer,Titulo de Maestria,Ingeniero de Software Senior,13,139413.0
+43,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,20,143084.0
+50,Mujer,Titulo de Maestria,Ingeniero Full Stack,25,192344.0
+24,Hombre,Doctorado,Gerente de Ingenieros de Software,1,106132.0
+52,Hombre,Titulo de Maestria,Ingeniero de Software Senior,26,184816.0
+46,Mujer,Titulo de Licenciatura,Desarrollador Back End,19,150248.0
+38,Hombre,Titulo de Maestria,Ingeniero Full Stack,15,170995.0
+29,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,6,88035.0
+33,Mujer,Titulo de Maestria,Desarrollador Front End,10,119419.0
+47,Hombre,Doctorado,Gerente de Ingenieros de Software,21,173582.0
+45,Mujer,Titulo de Maestria,Ingeniero de Software Senior,23,174436.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Back End,4,71699.0
+42,Mujer,Titulo de Maestria,Ingeniero Full Stack,14,163558.0
+46,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,24,166828.0
+38,Mujer,Doctorado,Gerente de Ingenieros de Software,15,144496.0
+54,Hombre,Titulo de Maestria,Ingeniero de Software Senior,31,193746.0
+33,Mujer,Titulo de Maestria,Ingeniero Full Stack,8,122581.0
+27,Hombre,Escuela Secundaria,Desarrollador Back End,4,79767.0
+50,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,25,177177.0
+26,Hombre,Titulo de Maestria,Ingeniero Full Stack,4,89843.0
+31,Mujer,Titulo de Maestria,Ingeniero de Software Senior,6,113563.0
+35,Hombre,Titulo de Licenciatura,Desarrollador Front End,10,128712.0
+44,Mujer,Doctorado,Gerente de Ingenieros de Software,18,161621.0
+32,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,8,121454.0
+54,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,25,179987.0
+26,Mujer,Titulo de Maestria,Desarrollador Front End,3,72649.0
+23,Hombre,Doctorado,bbb,0,52612.0
+48,Mujer,Titulo de Maestria,Ingeniero de Software Senior,24,184006.0
+38,Hombre,Titulo de Licenciatura,Desarrollador Back End,12,131960.0
+30,Mujer,Titulo de Maestria,Ingeniero Full Stack,5,102465.0
+45,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,22,171036.0
+36,Hombre,Titulo de Maestria,Ingeniero Full Stack,13,146351.0
+52,Hombre,Doctorado,Gerente de Ingenieros de Software,0,185462.0
+31,Mujer,Titulo de Licenciatura,Ingeniero de Software Senior,7,107718.0
+26,Hombre,Titulo de Maestria,Ingeniero Full Stack,4,90944.0
+24,Hombre,Titulo de Licenciatura,Desarrollador Back End,2,63901.0
+45,Hombre,Titulo de Maestria,Ingeniero de Software Senior,22,181902.0
+33,Mujer,Titulo de Maestria,Ingeniero Full Stack,9,136533.0
+38,Hombre,Titulo de Licenciatura,Desarrollador Front End,11,136285.0
+54,Mujer,Doctorado,Gerente de Ingenieros de Software,31,191818.0
+42,Hombre,Titulo de Maestria,Ingeniero Full Stack,0,176643.0
+28,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,4,70022.0
+30,Hombre,Titulo de Maestria,Desarrollador Front End,6,99363.0
+43,Mujer,Titulo de Maestria,Ingeniero de Software Senior,19,152944.0
+35,Hombre,Titulo de Licenciatura,Desarrollador Back End,10,123386.0
+44,Hombre,Otro,Otro,21,168906.0
+55,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,30,183020.0
+23,Hombre,Escuela Secundaria,Desarrollador Front End,1,47898.0
+39,Mujer,Titulo de Maestria,Ingeniero de Software Senior,14,135853.0
+43,Otro,Titulo de Licenciatura,Ingeniero Full Stack,17,149198.0
+29,Hombre,Doctorado,Gerente de Ingenieros de Software,6,106662.0
+30,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,6,89995.0
+39,Mujer,Doctorado,Gerente de Ingenieros de Software,13,143814.0
+49,Hombre,Otro,Desarrollador Front End,24,174726.0
+27,Hombre,Titulo de Licenciatura,Desarrollador Back End,4,68732.0
+43,Hombre,Titulo de Maestria,Ingeniero Full Stack,21,187951.0
+37,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,13,137336.0
+51,Hombre,Doctorado,Gerente de Ingenieros de Software,26,191159.0
+29,Mujer,Titulo de Maestria,Ingeniero Full Stack,5,102868.0
+43,Hombre,Titulo de Licenciatura,Ingeniero de Software Senior,20,154281.0
+31,Hombre,Titulo de Maestria,Desarrollador Back End,8,111535.0
+30,Mujer,Titulo de Maestria,Otro,6,107906.0
+52,Mujer,Doctorado,Gerente de Ingenieros de Software,27,180958.0
+49,Hombre,Titulo de Licenciatura,Desarrollador Back End,24,178284.0
+27,Mujer,Titulo de Maestria,Desarrollador Front End,4,75969.0
+56,Mujer,Doctorado,Gerente de Ingenieros de Software,31,197354.0
+46,Otro,Titulo de Licenciatura,Ingeniero de Software Senior,22,174324.0
+32,Mujer,Titulo de Maestria,Ingeniero Full Stack,8,123781.0
+38,Hombre,Doctorado,Gerente de Ingenieros de Software,12,141735.0
+52,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,28,187120.0
+24,Mujer,Titulo de Licenciatura,Desarrollador Back End,1,61095.0
+49,Hombre,Titulo de Maestria,Ingeniero Full Stack,22,179045.0
+35,Mujer,Titulo de Maestria,Ingeniero de Software Senior,10,130355.0
+31,Hombre,Titulo de Licenciatura,Desarrollador Front End,7,103282.0
+44,Mujer,Doctorado,Gerente de Ingenieros de Software,18,157872.0
+33,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,10,117314.0
+54,Hombre,Titulo de Licenciatura,Ingeniero de Software Senior,30,186321.0
+33,Mujer,Titulo de Maestria,Ingeniero Full Stack,11,129686.0
+27,Hombre,Escuela Secundaria,Desarrollador Back End,3,68611.0
+51,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,25,177913.0
+26,Hombre,Titulo de Maestria,Ingeniero Full Stack,3,68472.0
+31,Mujer,Titulo de Maestria,Ingeniero de Software Senior,6,113065.0
+35,Hombre,Titulo de Licenciatura,Desarrollador Front End,9,125091.0
+32,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,9,126916.0
+26,Mujer,Titulo de Maestria,Desarrollador Front End,4,76898.0
+23,Otro,Doctorado,Gerente de Ingenieros de Software,1,579.0
+26,Mujer,Titulo de Licenciatura,Ingeniero de Software,2,65000.0
+33,Hombre,Titulo de Maestria,Analista de Datos,0,120000.0
+29,Mujer,Titulo de Licenciatura,Gerente de Producto,4,90000.0
+41,Hombre,Doctorado,Cientifico de Datos,15,190000.0
+35,Mujer,Titulo de Maestria,Ingeniero de Software,9,140000.0
+37,Mujer,Titulo de Maestria,Cientifico de Datos,11,160000.0
+33,Hombre,Titulo de Licenciatura,Gerente de Producto,8,130000.0
+24,Mujer,Titulo de Maestria,bbb,2,60000.0
+46,Hombre,Doctorado,Director de Ciencia de Datos,20,220000.0
+29,Mujer,Titulo de Licenciatura,Desarrollador de Software,5,80000.0
+31,Hombre,Titulo de Maestria,Cientifico de Datos,7,130000.0
+27,Mujer,Titulo de Licenciatura,Ingeniero de Software,3,65000.0
+30,Mujer,Titulo de Maestria,Gerente de Producto,6,110000.0
+25,Otro,Titulo de Licenciatura,Desarrollador Front End,2,50000.0
+44,Hombre,Doctorado,Director de Ciencia de Datos,18,210000.0
+22,Hombre,Titulo de Licenciatura,Ingeniero de Software,1,50000.0
+36,Hombre,Titulo de Maestria,Gerente de Producto,10,160000.0
+41,Hombre,Doctorado,Cientifico de Datos Senior,0,190000.0
+23,Hombre,Titulo de Licenciatura,Otro,1,45000.0
+32,Mujer,Titulo de Maestria,Gerente de Producto,7,120000.0
+25,Hombre,Titulo de Maestria,Ingeniero de Software,2,60000.0
+37,Mujer,Titulo de Licenciatura,Analista de Datos,11,150000.0
+28,Hombre,Titulo de Licenciatura,Ingeniero de Software,0,70000.0
+24,Mujer,Titulo de Licenciatura,Otro,2,55000.0
+36,Otro,Doctorado,Cientifico de Datos Senior,12,170000.0
+26,Hombre,Titulo de Licenciatura,Desarrollador de Software,0,60000.0
+35,Mujer,Titulo de Maestria,Analista de Datos,0,120000.0
+35,Mujer,Otro,Analista de Datos,9,120000.0
+32,Hombre,Titulo de Maestria,bbb,7,110000.0
+37,Hombre,Titulo de Licenciatura,Otro,11,160000.0
+28,Hombre,Titulo de Licenciatura,Ingeniero de Software,0,75000.0
+34,Hombre,Titulo de Maestria,Cientifico de Datos,0,140000.0
+37,Hombre,Titulo de Licenciatura,Analista de Datos,0,160000.0
+34,Hombre,Titulo de Maestria,Analista de Datos,0,100000.0
+35,Otro,Titulo de Maestria,Analista de Datos,9,120000.0
+34,Hombre,Titulo de Maestria,Otro,8,100000.0
+41,Otro,Doctorado,Director de Ciencia de Datos,16,200000.0
+27,Otro,Titulo de Licenciatura,Ingeniero de Software,3,70000.0
+29,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,6,103579.0
+45,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,0,163780.0
+30,Mujer,Otro,Ingeniero de Proyectos Senior,4,92438.0
+28,Hombre,Titulo de Maestria,Ingeniero Full Stack,5,84181.0
+46,Mujer,Doctorado,Gerente de Ingenieros de Software,21,174821.0
+34,Hombre,Titulo de Licenciatura,Desarrollador Back End,10,126520.0
+44,Hombre,Titulo de Maestria,Ingeniero de Software Senior,18,152168.0
+55,Otro,Doctorado,Gerente de Ingenieros de Software,29,190543.0
+54,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,28,192292.0
+23,Mujer,Otro,Desarrollador Back End,1,52807.0
+46,Hombre,Titulo de Maestria,Ingeniero de Software Senior,20,174938.0
+33,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,8,124071.0
+26,Otro,Titulo de Maestria,Desarrollador Front End,3,73640.0
+43,Otro,Doctorado,Gerente de Ingenieros de Software,19,156486.0
+36,Hombre,Titulo de Maestria,Ingeniero Full Stack,0,138859.0
+23,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,0,52831.0
+49,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,23,182392.0
+35,Mujer,Titulo de Maestria,Ingeniero Full Stack,0,151078.0
+54,Otro,Escuela Secundaria,Ingeniero de Software Senior,29,158966.0
+43,Hombre,Titulo de Maestria,Ingeniero Full Stack,20,167924.0
+33,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,10,113334.0
+52,Mujer,Doctorado,Gerente de Ingenieros de Software,29,194778.0
+28,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,4,77606.0
+36,Mujer,Titulo de Maestria,Ingeniero de Software Senior,13,140010.0
+43,Hombre,Titulo de Licenciatura,Otro,20,142421.0
+50,Mujer,Titulo de Maestria,Ingeniero Full Stack,24,192756.0
+24,Hombre,Doctorado,Gerente de Ingenieros de Software,1,106686.0
+46,Mujer,Titulo de Licenciatura,Desarrollador Back End,19,150729.0
+38,Hombre,Titulo de Maestria,Ingeniero Full Stack,15,171652.0
+29,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,6,88552.0
+33,Mujer,Titulo de Maestria,Desarrollador Front End,9,119918.0
+47,Hombre,Doctorado,Gerente de Ingenieros de Software,21,174985.0
+45,Mujer,Titulo de Maestria,Ingeniero de Software Senior,23,174336.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Back End,4,72389.0
+42,Mujer,Titulo de Maestria,Ingeniero Full Stack,14,163978.0
+46,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,25,166958.0
+38,Mujer,Doctorado,Gerente de Ingenieros de Software,15,145052.0
+54,Hombre,Titulo de Maestria,Ingeniero de Software Senior,32,195270.0
+33,Mujer,Titulo de Maestria,Ingeniero Full Stack,8,122970.0
+27,Hombre,Escuela Secundaria,Desarrollador Back End,4,80247.0
+50,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,25,177862.0
+31,Mujer,Titulo de Maestria,Ingeniero de Software Senior,6,114290.0
+35,Hombre,Titulo de Licenciatura,Desarrollador Front End,10,128999.0
+44,Mujer,Doctorado,Gerente de Ingenieros de Software,18,162454.0
+32,Hombre,Titulo de Maestria,Otro,8,122354.0
+54,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,25,179756.0
+26,Mujer,Titulo de Maestria,Desarrollador Front End,3,73218.0
+23,Hombre,Doctorado,Otro,0,52612.0
+48,Mujer,Titulo de Maestria,Ingeniero de Software Senior,24,184480.0
+30,Mujer,Titulo de Maestria,Ingeniero Full Stack,5,102828.0
+40,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,16,150301.0
+45,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,22,171468.0
+36,Hombre,Titulo de Maestria,Ingeniero Full Stack,13,147326.0
+52,Hombre,Doctorado,Gerente de Ingenieros de Software,26,185982.0
+31,Mujer,Titulo de Licenciatura,Ingeniero de Software Senior,0,108267.0
+26,Hombre,Titulo de Maestria,Ingeniero Full Stack,4,91397.0
+30,Otro,Titulo de Maestria,Ingeniero de Proyectos Senior,5,100867.0
+24,Hombre,Titulo de Licenciatura,Desarrollador Back End,2,64182.0
+45,Hombre,Titulo de Maestria,Ingeniero de Software Senior,22,182506.0
+33,Mujer,Titulo de Maestria,Ingeniero Full Stack,9,136986.0
+38,Hombre,Titulo de Licenciatura,Desarrollador Front End,0,136662.0
+54,Mujer,Doctorado,Gerente de Ingenieros de Software,32,191510.0
+42,Hombre,Titulo de Maestria,Ingeniero Full Stack,19,177347.0
+28,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,3,70397.0
+46,Mujer,Titulo de Licenciatura,Desarrollador Back End,18,155795.0
+35,Hombre,Titulo de Maestria,Otro,9,132638.0
+49,Mujer,Doctorado,Gerente de Ingenieros de Software,22,178684.0
+32,Hombre,Titulo de Licenciatura,Ingeniero de Software Senior,7,106218.0
+54,Hombre,Otro,Ingeniero Full Stack,28,191239.0
+26,Mujer,Titulo de Maestria,Desarrollador Front End,2,65840.0
+23,Hombre,Doctorado,Gerente de Ingenieros de Software,0,52779.0
+48,Mujer,Titulo de Maestria,Ingeniero de Software Senior,23,185038.0
+30,Mujer,Titulo de Maestria,Ingeniero Full Stack,6,110707.0
+40,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,17,151670.0
+45,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,21,167015.0
+36,Hombre,Titulo de Maestria,Ingeniero Full Stack,13,146508.0
+52,Hombre,Doctorado,Gerente de Ingenieros de Software,27,190596.0
+31,Mujer,Titulo de Licenciatura,Ingeniero de Software Senior,6,104378.0
+26,Hombre,Titulo de Maestria,Ingeniero Full Stack,3,70216.0
+30,Mujer,Titulo de Maestria,Otro,5,101733.0
+24,Hombre,Titulo de Licenciatura,Desarrollador Back End,1,55935.0
+45,Hombre,Titulo de Maestria,Otro,21,180367.0
+33,Mujer,Titulo de Maestria,Ingeniero Full Stack,9,135596.0
+38,Hombre,Otro,Desarrollador Front End,11,136062.0
+54,Mujer,Doctorado,Otro,32,191267.0
+34,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,9,146075.0
+35,Hombre,Titulo de Maestria,Ingeniero Full Stack,9,132638.0
+54,Otro,Titulo de Maestria,Ingeniero Full Stack,28,191239.0
+23,Hombre,Doctorado,Otro,0,52779.0
+38,Hombre,Titulo de Licenciatura,Desarrollador Back End,14,136449.0
+30,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,5,101733.0
+45,Hombre,Titulo de Maestria,Ingeniero de Software Senior,21,180367.0
+38,Hombre,Titulo de Licenciatura,Desarrollador Front End,11,136062.0
+54,Mujer,Doctorado,Gerente de Ingenieros de Software,32,191267.0
+45,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,19,163780.0
+36,Hombre,Titulo de Licenciatura,Desarrollador Front End,12,137878.0
+30,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,4,92438.0
+55,Mujer,Doctorado,Gerente de Ingenieros de Software,29,190543.0
+35,Hombre,Titulo de Maestria,Ingeniero Full Stack,9,131547.0
+23,Mujer,Escuela Secundaria,Desarrollador Back End,1,52807.0
+43,Mujer,Doctorado,Gerente de Ingenieros de Software,19,156486.0
+36,Hombre,Titulo de Maestria,Ingeniero Full Stack,11,138859.0
+35,Otro,Titulo de Maestria,Ingeniero Full Stack,11,151078.0
+31,Hombre,Titulo de Licenciatura,Desarrollador Back End,8,100679.0
+54,Otro,Escuela Secundaria,Ingeniero de Software Senior,29,158966.0
+43,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,20,142421.0
+24,Hombre,Doctorado,Gerente de Ingenieros de Software,0,106686.0
+52,Hombre,Titulo de Maestria,Ingeniero de Software Senior,27,186794.0
+33,Mujer,Otro,Desarrollador Front End,9,119918.0
+47,Hombre,Doctorado,Otro,0,174985.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Back End,0,72389.0
+26,Hombre,Titulo de Maestria,Ingeniero Full Stack,4,91062.0
+44,Mujer,Otro,Gerente de Ingenieros de Software,18,162454.0
+32,Otro,Titulo de Maestria,Ingeniero de Proyectos Senior,8,122354.0
+54,Hombre,Titulo de Licenciatura,bbb,25,179756.0
+23,Hombre,Doctorado,Gerente de Ingenieros de Software,0,52612.0
+38,Hombre,Titulo de Licenciatura,Desarrollador Back End,12,132442.0
+30,Mujer,Otro,Ingeniero Full Stack,5,102828.0
+31,Mujer,Titulo de Licenciatura,bbb,7,108267.0
+30,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,5,100867.0
+38,Hombre,Titulo de Licenciatura,Desarrollador Front End,11,136662.0
+42,Hombre,Titulo de Maestria,Ingeniero Full Stack,0,177347.0
+54,Hombre,Titulo de Maestria,Ingeniero Full Stack,28,191239.0
+30,Mujer,Titulo de Maestria,Ingeniero Full Stack,0,110707.0
+38,Hombre,Titulo de Licenciatura,Desarrollador Front End,0,136062.0
+54,Mujer,Doctorado,bbb,32,191267.0
+28,Mujer,Titulo de Licenciatura,bbb,0,70397.0
+30,Mujer,Titulo de Maestria,Ingeniero Full Stack,0,110707.0
+40,Hombre,Titulo de Maestria,Otro,17,151670.0
+24,Otro,Titulo de Licenciatura,Desarrollador Back End,1,55935.0
+45,Otro,Titulo de Maestria,Ingeniero de Software Senior,21,180367.0
+38,Hombre,Titulo de Licenciatura,Otro,11,136062.0
+55,Otro,Doctorado,Gerente de Ingenieros de Software,0,190543.0
+26,Hombre,Titulo de Maestria,Desarrollador Front End,3,73640.0
+49,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,0,182392.0
+35,Mujer,Titulo de Maestria,Ingeniero Full Stack,11,151078.0
+33,Mujer,Titulo de Maestria,bbb,10,113334.0
+29,Otro,Titulo de Licenciatura,Ingeniero de Proyectos Senior,6,88552.0
+28,Hombre,Otro,Desarrollador Back End,4,72389.0
+42,Mujer,Titulo de Maestria,bbb,14,163978.0
+33,Mujer,Titulo de Maestria,bbb,8,122970.0
+31,Mujer,Titulo de Maestria,Ingeniero de Software Senior,0,114290.0
+32,Hombre,Titulo de Maestria,Ingeniero de Proyectos Senior,8,122354.0
+48,Mujer,Titulo de Maestria,Otro,0,185038.0
+31,Mujer,Titulo de Licenciatura,Ingeniero de Software Senior,7,108267.0
+26,Hombre,Titulo de Maestria,Ingeniero Full Stack,3,91397.0
+28,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,4,82944.0
+48,Hombre,Doctorado,Gerente de Ingenieros de Software,23,188288.0
+36,Mujer,Titulo de Maestria,Ingeniero de Software Senior,14,141090.0
+43,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,19,152726.0
+33,Mujer,Titulo de Maestria,Desarrollador Back End,9,124141.0
+26,Hombre,Titulo de Licenciatura,Desarrollador Front End,3,67556.0
+50,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,22,182768.0
+41,Hombre,Doctorado,Gerente de Ingenieros de Software,15,148727.0
+29,Mujer,Titulo de Licenciatura,Otro,6,91903.0
+38,Hombre,Titulo de Maestria,Ingeniero de Software Senior,14,147708.0
+48,Mujer,Otro,Ingeniero de Proyectos Senior,21,163209.0
+31,Hombre,Titulo de Maestria,Ingeniero Full Stack,8,120288.0
+45,Hombre,Doctorado,Gerente de Ingenieros de Software,21,170226.0
+35,Mujer,Titulo de Maestria,Ingeniero de Software Senior,11,134979.0
+42,Hombre,Titulo de Licenciatura,Desarrollador Back End,16,137489.0
+27,Mujer,Titulo de Maestria,Ingeniero Full Stack,4,83577.0
+33,Hombre,Titulo de Licenciatura,Desarrollador Front End,9,117904.0
+36,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,11,134482.0
+54,Hombre,Doctorado,Gerente de Ingenieros de Software,30,184660.0
+30,Mujer,Otro,Otro,5,100151.0
+26,Hombre,Titulo de Maestria,Ingeniero Full Stack,3,88678.0
+45,Mujer,Doctorado,Ingeniero de Proyectos Senior,21,181285.0
+38,Hombre,Titulo de Maestria,Gerente de Ingenieros de Software,16,154990.0
+31,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,7,108204.0
+42,Hombre,Titulo de Maestria,Ingeniero de Software Senior,0,175684.0
+28,Mujer,Titulo de Licenciatura,Desarrollador Back End,5,77766.0
+48,Hombre,Doctorado,Gerente de Ingenieros de Software,24,192211.0
+36,Mujer,Titulo de Maestria,Ingeniero Full Stack,13,144647.0
+43,Hombre,Titulo de Licenciatura,Ingeniero de Proyectos Senior,20,162231.0
+33,Mujer,Titulo de Maestria,Desarrollador Front End,9,121120.0
+26,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,4,79652.0
+50,Mujer,Titulo de Maestria,Ingeniero de Software Senior,21,177002.0
+54,Hombre,Otro,Gerente de Ingenieros de Software,28,182013.0
+31,Mujer,Titulo de Maestria,Ingeniero Full Stack,7,108799.0
+36,Hombre,Titulo de Licenciatura,Ingeniero de Software Senior,13,135378.0
+45,Mujer,Titulo de Maestria,Gerente de Ingenieros de Software,22,183530.0
+42,Hombre,Titulo de Licenciatura,Desarrollador Back End,18,150901.0
+28,Mujer,Titulo de Maestria,Ingeniero Full Stack,4,82697.0
+48,Hombre,Doctorado,Ingeniero de Software Senior,26,194638.0
+36,Mujer,Titulo de Maestria,Ingeniero de Proyectos Senior,12,130356.0
+43,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,18,152560.0
+33,Mujer,Titulo de Maestria,Desarrollador Front End,9,121432.0
+26,Hombre,Titulo de Licenciatura,Desarrollador Back End,2,63789.0
+50,Mujer,Otro,Ingeniero de Software Senior,23,183690.0
+41,Hombre,Doctorado,Gerente de Ingenieros de Software,16,151310.0
+29,Mujer,Titulo de Licenciatura,Ingeniero Full Stack,6,100358.0
+38,Hombre,Titulo de Maestria,Ingeniero de Software Senior,15,148437.0
+48,Mujer,Titulo de Licenciatura,Ingeniero de Proyectos Senior,22,168691.0
+28,Hombre,Titulo de Licenciatura,Desarrollador de Software,1,50000.0
+32,Mujer,Titulo de Maestria,Gerente de Producto,5,100000.0
+26,Otro,Titulo de Licenciatura,Ingeniero de Software,2,60000.0
+33,Mujer,Titulo de Maestria,Analista de Datos,6,90000.0
+29,Hombre,Titulo de Licenciatura,Desarrollador Front End,3,70000.0
+42,Hombre,Doctorado,Director de Ciencia de Datos,12,170000.0
+36,Mujer,Titulo de Maestria,Cientifico de Datos,8,130000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador de Software,1,50000.0
+34,Mujer,Titulo de Maestria,Gerente de Producto,7,120000.0
+29,Hombre,Titulo de Licenciatura,Ingeniero de Software,4,80000.0
+41,Mujer,Doctorado,Cientifico de Datos Senior,0,200000.0
+36,Hombre,Doctorado,Director de Ciencia de Datos,12,170000.0
+25,Mujer,Titulo de Maestria,Otro,2,60000.0
+30,Otro,Titulo de Licenciatura,Ingeniero de Software,5,90000.0
+42,Hombre,Titulo de Maestria,bbb,14,180000.0
+23,Mujer,Titulo de Licenciatura,bbb,1,50000.0
+24,Mujer,Titulo de Licenciatura,Desarrollador de Software,0,55000.0
+36,Hombre,Otro,Cientifico de Datos Senior,12,170000.0
+26,Hombre,Titulo de Licenciatura,Desarrollador de Software,0,60000.0
+25,Otro,Titulo de Maestria,Ingeniero de Software,0,60000.0
+36,Hombre,Doctorado,Cientifico de Datos Senior,0,170000.0
+41,Mujer,Otro,Director de Ciencia de Datos,16,200000.0
+41,Mujer,Doctorado,Director de Ciencia de Datos,0,200000.0
+35,Mujer,Titulo de Maestria,Analista de Datos,0,120000.0
+27,Mujer,Titulo de Licenciatura,Ingeniero de Software,0,70000.0
+30,Mujer,Titulo de Licenciatura,Ingeniero de Software,4,80000.0
+48,Hombre,Doctorado,Otro,18,210000.0
+48,Hombre,Doctorado,Director de Ciencia de Datos,0,210000.0
+34,Hombre,Otro,Cientifico de Datos,9,140000.0
+30,Mujer,Otro,Ingeniero de Software,5,90000.0
+48,Hombre,Otro,Director de Ciencia de Datos,18,210000.0
+24,Otro,Titulo de Licenciatura,Desarrollador de Software,2,55000.0
+36,Hombre,Doctorado,Cientifico de Datos Senior,0,170000.0
+32,Hombre,Titulo de Maestria,Gerente de Producto,0,110000.0
+42,Otro,Titulo de Maestria,Gerente de Producto,14,180000.0
+28,Hombre,Titulo de Maestria,Desarrollador Web,5,80000.0
+30,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos Junior,4,60000.0
+25,Hombre,Titulo de Licenciatura,Desarrollador Web Junior,0,50000.0
+22,Mujer,Escuela Secundaria,Generalista de Recursos Humanos Junior,0,40000.0
+36,Hombre,Titulo de Licenciatura,Desarrollador Web,10,100000.0
+29,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Senior,4,75000.0
+42,Hombre,Doctorado,Director de Recursos Humanos,16,140000.0
+27,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos Junior,2,50000.0
+38,Hombre,Titulo de Maestria,Gerente Senior de Recursos Humanos,0,110000.0
+24,Mujer,Titulo de Licenciatura,Desarrollador Web,1,45000.0
+31,Hombre,Escuela Secundaria,Desarrollador Web Junior,4,55000.0
+39,Mujer,Doctorado,Director de Recursos Humanos,13,130000.0
+26,Hombre,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,2,50000.0
+32,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Senior,0,80000.0
+32,Hombre,Titulo de Licenciatura,Desarrollador Web Junior,2,45000.0
+24,Mujer,Escuela Secundaria,Generalista de Recursos Humanos Junior,1,32000.0
+45,Hombre,Doctorado,Gerente Senior de Recursos Humanos,12,120000.0
+29,Mujer,Titulo de Maestria,Otro,4,65000.0
+27,Mujer,Titulo de Maestria,Director de Recursos Humanos,5,80000.0
+31,Mujer,Escuela Secundaria,Coordinador de Recursos Humanos Junior,3,38000.0
+42,Hombre,Titulo de Maestria,Desarrollador Web,10,110000.0
+26,Mujer,Titulo de Licenciatura,Desarrollador Web Junior,2,45000.0
+36,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,7,89000.0
+28,Hombre,Escuela Secundaria,Generalista de Recursos Humanos Junior,1,32000.0
+33,Mujer,Titulo de Licenciatura,Desarrollador Web,5,70000.0
+46,Hombre,Doctorado,Director de Recursos Humanos,15,150000.0
+30,Hombre,Titulo de Maestria,Desarrollador Web,4,65000.0
+43,Mujer,Doctorado,Director de Recursos Humanos,14,140000.0
+34,Hombre,Titulo de Licenciatura,Desarrollador Web Junior,3,50000.0
+26,Mujer,Escuela Secundaria,Generalista de Recursos Humanos Junior,2,35000.0
+41,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,0,115000.0
+29,Mujer,Titulo de Maestria,Desarrollador Web,5,70000.0
+35,Hombre,Titulo de Licenciatura,Desarrollador Web,6,80000.0
+27,Mujer,Escuela Secundaria,Coordinador de Recursos Humanos Junior,1,30000.0
+40,Hombre,Doctorado,Director de Recursos Humanos,13,135000.0
+39,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,10,105000.0
+31,Hombre,Escuela Secundaria,Generalista de Recursos Humanos Junior,2,35000.0
+44,Mujer,Doctorado,Gerente Senior de Recursos Humanos,12,120000.0
+28,Otro,Titulo de Maestria,Desarrollador Web,0,55000.0
+32,Mujer,Titulo de Licenciatura,Desarrollador Web Junior,2,45000.0
+45,Hombre,Titulo de Maestria,Director de Recursos Humanos,14,140000.0
+26,Mujer,Titulo de Licenciatura,Desarrollador Web,3,55000.0
+38,Hombre,Doctorado,Gerente Senior de Recursos Humanos,11,115000.0
+27,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Senior,4,70000.0
+33,Hombre,Escuela Secundaria,Coordinador de Recursos Humanos Junior,3,38000.0
+42,Mujer,Titulo de Maestria,Director de Recursos Humanos,13,135000.0
+29,Hombre,Titulo de Licenciatura,Desarrollador Web Junior,2,45000.0
+36,Mujer,Titulo de Maestria,Desarrollador Web,7,85000.0
+30,Hombre,Escuela Secundaria,Generalista de Recursos Humanos Junior,1,32000.0
+43,Mujer,Doctorado,Gerente Senior de Recursos Humanos,15,150000.0
+34,Hombre,Titulo de Licenciatura,Desarrollador Web,0,65000.0
+25,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Junior,1,32000.0
+37,Hombre,Doctorado,Otro,12,120000.0
+24,Mujer,Titulo de Licenciatura,Desarrollador Web Junior,1,40000.0
+39,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,9,95000.0
+31,Hombre,Escuela Secundaria,Generalista de Recursos Humanos Junior,0,35000.0
+44,Mujer,Doctorado,Director de Recursos Humanos,14,140000.0
+28,Otro,Titulo de Licenciatura,Desarrollador Web,3,55000.0
+45,Hombre,Doctorado,Director de Recursos Humanos,13,135000.0
+38,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,8,95000.0
+27,Mujer,Escuela Secundaria,Generalista de Recursos Humanos Junior,1,32000.0
+33,Hombre,Titulo de Licenciatura,Desarrollador Web,5,70000.0
+42,Mujer,Titulo de Maestria,Director de Recursos Humanos,12,120000.0
+29,Hombre,Titulo de Maestria,Gerente Senior de Recursos Humanos,4,70000.0
+30,Hombre,Escuela Secundaria,Coordinador de Recursos Humanos Junior,2,33000.0
+43,Mujer,Doctorado,Gerente Senior de Recursos Humanos,0,150000.0
+37,Hombre,Doctorado,Director de Recursos Humanos,11,115000.0
+24,Mujer,Titulo de Licenciatura,Otro,1,40000.0
+44,Mujer,Doctorado,Director de Recursos Humanos,13,135000.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Web,0,65000.0
+32,Mujer,Titulo de Maestria,Gerente Senior de Recursos Humanos,6,80000.0
+45,Hombre,Otro,Director de Recursos Humanos,14,140000.0
+29,Otro,Titulo de Maestria,Gerente Senior de Recursos Humanos,4,70000.0
+24,Mujer,Titulo de Licenciatura,Desarrollador Web,1,40000.0
+39,Otro,Titulo de Maestria,bbb,10,105000.0
+44,Otro,Doctorado,Director de Recursos Humanos,13,135000.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Web,4,65000.0
+33,Hombre,Otro,Desarrollador Web,5,70000.0
+42,Mujer,Titulo de Maestria,Director de Recursos Humanos,0,120000.0
+45,Hombre,Doctorado,Director de Recursos Humanos,14,140000.0
+29,Mujer,Titulo de Maestria,Desarrollador Web,4,65000.0
+38,Hombre,Titulo de Licenciatura,Generalista de Recursos Humanos Senior,8,95000.0
+33,Mujer,Titulo de Licenciatura,Desarrollador Web,0,70000.0
+25,Mujer,Titulo de Licenciatura,Desarrollador Web Junior,1,40000.0
+37,Mujer,Titulo de Maestria,Gerente Senior de Recursos Humanos,9,105000.0
+41,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,11,115000.0
+23,Mujer,Titulo de Licenciatura,Desarrollador Web Junior,1,40000.0
+39,Otro,Titulo de Maestria,Generalista de Recursos Humanos Senior,10,105000.0
+28,Hombre,Titulo de Maestria,Desarrollador Web,3,55000.0
+45,Hombre,Titulo de Maestria,Otro,14,140000.0
+27,Mujer,Otro,Generalista de Recursos Humanos Senior,0,70000.0
+42,Mujer,Titulo de Maestria,bbb,13,135000.0
+30,Hombre,Otro,Generalista de Recursos Humanos Junior,1,32000.0
+34,Hombre,Titulo de Licenciatura,Desarrollador Web,4,65000.0
+37,Hombre,Doctorado,Director de Recursos Humanos,12,120000.0
+24,Otro,Otro,Desarrollador Web Junior,1,40000.0
+39,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,0,95000.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Web,3,55000.0
+29,Hombre,Otro,Gerente Senior de Recursos Humanos,4,70000.0
+34,Otro,Titulo de Licenciatura,Desarrollador Web Junior,3,50000.0
+37,Hombre,Doctorado,Director de Recursos Humanos,0,115000.0
+24,Mujer,Titulo de Licenciatura,Otro,0,40000.0
+38,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,0,95000.0
+33,Hombre,Titulo de Licenciatura,Desarrollador Web,0,70000.0
+25,Mujer,Titulo de Maestria,bbb,1,32000.0
+37,Hombre,Otro,Director de Recursos Humanos,11,115000.0
+39,Hombre,Titulo de Maestria,bbb,10,105000.0
+42,Otro,Titulo de Maestria,Director de Recursos Humanos,0,120000.0
+37,Hombre,Doctorado,Otro,11,115000.0
+24,Mujer,Titulo de Licenciatura,bbb,1,40000.0
+44,Mujer,Doctorado,Director de Recursos Humanos,0,135000.0
+30,Hombre,Otro,Coordinador de Recursos Humanos Junior,2,33000.0
+28,Hombre,Titulo de Licenciatura,Ingeniero de Software,3,60000.0
+37,Mujer,Titulo de Maestria,Gerente de Marketing,9,100000.0
+43,Hombre,Doctorado,Cientifico de Datos,15,150000.0
+31,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos,4,55000.0
+24,Hombre,Escuela Secundaria,Asociado de Ventas Junior,1,30000.0
+29,Mujer,Titulo de Maestria,Desarrollador de Software,5,70000.0
+35,Hombre,Titulo de Licenciatura,Gerente de Operaciones,0,90000.0
+26,Mujer,Titulo de Maestria,Coordinador de Marketing,2,40000.0
+42,Hombre,Doctorado,Cientifico de Datos,12,130000.0
+34,Mujer,Titulo de Licenciatura,Gerente de Recursos Humanos,6,75000.0
+27,Otro,Escuela Secundaria,Asociado de Ventas Junior,2,35000.0
+38,Mujer,Titulo de Maestria,Gerente de Marketing,10,110000.0
+30,Hombre,Titulo de Licenciatura,Ingeniero de Software,4,65000.0
+45,Hombre,Doctorado,Cientifico de Datos,18,180000.0
+25,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,0,35000.0
+40,Mujer,Titulo de Maestria,Gerente de Recursos Humanos,11,120000.0
+33,Hombre,Titulo de Licenciatura,Gerente de Operaciones,6,75000.0
+29,Mujer,Escuela Secundaria,Asociado de Ventas Junior,1,30000.0
+44,Hombre,Doctorado,Cientifico de Datos,16,160000.0
+26,Hombre,Titulo de Licenciatura,Desarrollador de Software,3,60000.0
+31,Hombre,Titulo de Licenciatura,Otro,5,70000.0
+27,Mujer,Titulo de Maestria,Coordinador de Recursos Humanos,3,50000.0
+42,Hombre,Doctorado,Cientifico de Datos,13,140000.0
+34,Mujer,Otro,Gerente de Recursos Humanos,6,75000.0
+28,Otro,Escuela Secundaria,Otro,2,35000.0
+31,Hombre,Titulo de Licenciatura,Ingeniero de Software,4,65000.0
+25,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,0,35000.0
+29,Mujer,Escuela Secundaria,Asociado de Ventas Junior,0,30000.0
+36,Mujer,Titulo de Maestria,Coordinador de Marketing,8,85000.0
+31,Hombre,Titulo de Licenciatura,Gerente de Operaciones,5,70000.0
+34,Mujer,Titulo de Licenciatura,Gerente de Recursos Humanos,0,75000.0
+28,Hombre,Escuela Secundaria,Asociado de Ventas Junior,2,35000.0
+39,Mujer,Titulo de Maestria,Gerente de Marketing,10,110000.0
+25,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,1,35000.0
+33,Hombre,Otro,Gerente de Operaciones,6,75000.0
+44,Otro,Doctorado,Cientifico de Datos,16,160000.0
+29,Otro,Escuela Secundaria,Asociado de Ventas Junior,1,30000.0
+44,Hombre,Otro,Cientifico de Datos,16,160000.0
+31,Hombre,Titulo de Licenciatura,bbb,0,70000.0
+40,Otro,Titulo de Maestria,Gerente de Recursos Humanos,11,120000.0
+36,Mujer,Otro,Coordinador de Marketing,8,85000.0
+31,Hombre,Titulo de Licenciatura,Gerente de Operaciones,0,70000.0
+27,Mujer,Titulo de Maestria,Otro,0,50000.0
+31,Hombre,Titulo de Licenciatura,Ingeniero de Software,0,65000.0
+28,Hombre,Escuela Secundaria,Otro,2,35000.0
+25,Mujer,Titulo de Licenciatura,bbb,1,35000.0
+31,Hombre,Titulo de Licenciatura,Otro,4,65000.0
+44,Hombre,Doctorado,bbb,16,160000.0
+27,Hombre,Titulo de Licenciatura,Ingeniero de Software,3,60000.0
+38,Mujer,Titulo de Maestria,Otro,9,100000.0
+44,Hombre,Doctorado,Cientifico de Datos,15,150000.0
+30,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos,4,55000.0
+23,Hombre,Escuela Secundaria,Asociado de Ventas Junior,1,30000.0
+28,Mujer,Titulo de Maestria,Desarrollador de Software,5,70000.0
+25,Mujer,Titulo de Maestria,Otro,2,40000.0
+41,Hombre,Doctorado,Otro,12,130000.0
+33,Mujer,Titulo de Licenciatura,Gerente de Recursos Humanos,6,75000.0
+26,Hombre,Escuela Secundaria,Asociado de Ventas Junior,2,35000.0
+37,Mujer,Titulo de Maestria,Gerente de Marketing,10,110000.0
+46,Hombre,Doctorado,Cientifico de Datos,18,180000.0
+26,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,1,35000.0
+39,Mujer,Titulo de Maestria,Gerente de Recursos Humanos,11,120000.0
+32,Hombre,Titulo de Licenciatura,Gerente de Operaciones,6,75000.0
+28,Mujer,Escuela Secundaria,Asociado de Ventas Junior,1,30000.0
+43,Hombre,Doctorado,Cientifico de Datos,16,160000.0
+35,Mujer,Titulo de Maestria,Coordinador de Marketing,8,85000.0
+30,Hombre,Titulo de Licenciatura,Gerente de Operaciones,5,70000.0
+26,Mujer,Titulo de Maestria,Coordinador de Recursos Humanos,0,50000.0
+41,Hombre,Doctorado,Cientifico de Datos,13,140000.0
+27,Hombre,Escuela Secundaria,Asociado de Ventas Junior,2,35000.0
+29,Hombre,Titulo de Licenciatura,Ingeniero de Software,4,65000.0
+39,Mujer,Titulo de Maestria,Otro,11,120000.0
+32,Hombre,Otro,Gerente de Operaciones,6,75000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador de Software,3,60000.0
+35,Mujer,Titulo de Maestria,Coordinador de Marketing,0,85000.0
+32,Hombre,Titulo de Licenciatura,bbb,6,75000.0
+26,Mujer,Titulo de Maestria,Coordinador de Recursos Humanos,3,50000.0
+38,Mujer,Otro,Gerente de Marketing,10,110000.0
+26,Otro,Titulo de Maestria,Coordinador de Recursos Humanos,3,50000.0
+33,Mujer,Otro,Gerente de Recursos Humanos,6,75000.0
+26,Mujer,Otro,Coordinador de Recursos Humanos,3,50000.0
+41,Hombre,Otro,Cientifico de Datos,13,140000.0
+39,Mujer,Otro,Gerente de Recursos Humanos,11,120000.0
+28,Otro,Escuela Secundaria,Asociado de Ventas Junior,0,30000.0
+41,Otro,Doctorado,Cientifico de Datos,13,140000.0
+28,Otro,Escuela Secundaria,Asociado de Ventas Junior,1,30000.0
+26,Mujer,Titulo de Maestria,Coordinador de Recursos Humanos,0,50000.0
+38,Mujer,Titulo de Maestria,Otro,10,110000.0
+24,Hombre,Titulo de Licenciatura,Ingeniero de Software,2,55000.0
+32,Mujer,Titulo de Maestria,Gerente de Marketing,7,90000.0
+45,Hombre,Doctorado,Cientifico de Datos,16,160000.0
+28,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos,4,60000.0
+22,Hombre,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+36,Hombre,Titulo de Licenciatura,Gerente de Operaciones,8,100000.0
+42,Hombre,Doctorado,Cientifico de Datos,0,140000.0
+25,Hombre,Escuela Secundaria,Asociado de Ventas Junior,2,30000.0
+47,Hombre,Doctorado,Cientifico de Datos,19,190000.0
+40,Mujer,Titulo de Maestria,Gerente de Recursos Humanos,12,130000.0
+33,Hombre,Titulo de Licenciatura,Gerente de Operaciones,7,85000.0
+29,Mujer,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+44,Hombre,Otro,Otro,15,150000.0
+28,Hombre,Titulo de Licenciatura,Desarrollador de Software,0,60000.0
+36,Mujer,Titulo de Maestria,Coordinador de Marketing,9,100000.0
+31,Hombre,Titulo de Licenciatura,Gerente de Operaciones,6,75000.0
+42,Hombre,Doctorado,Cientifico de Datos,14,140000.0
+34,Mujer,Titulo de Licenciatura,Otro,6,75000.0
+26,Hombre,Escuela Secundaria,Asociado de Ventas Junior,2,30000.0
+30,Hombre,Otro,Ingeniero de Software,4,65000.0
+44,Hombre,Doctorado,Cientifico de Datos,0,150000.0
+28,Hombre,Titulo de Licenciatura,Desarrollador de Software,3,60000.0
+26,Hombre,Escuela Secundaria,Asociado de Ventas Junior,0,30000.0
+39,Mujer,Titulo de Maestria,Gerente de Marketing,11,120000.0
+47,Otro,Doctorado,Cientifico de Datos,19,190000.0
+29,Mujer,Escuela Secundaria,Otro,1,25000.0
+31,Hombre,Titulo de Licenciatura,Gerente de Operaciones,0,75000.0
+39,Otro,Titulo de Maestria,Gerente de Marketing,11,120000.0
+30,Otro,Titulo de Licenciatura,Ingeniero de Software,4,65000.0
+33,Hombre,Titulo de Licenciatura,bbb,7,85000.0
+29,Mujer,Escuela Secundaria,Asociado de Ventas Junior,0,25000.0
+26,Hombre,Escuela Secundaria,Asociado de Ventas Junior,0,30000.0
+47,Hombre,Otro,Cientifico de Datos,19,190000.0
+25,Mujer,Titulo de Licenciatura,Otro,1,35000.0
+40,Mujer,Otro,Gerente de Recursos Humanos,12,130000.0
+28,Otro,Titulo de Licenciatura,Desarrollador de Software,3,60000.0
+31,Hombre,Titulo de Licenciatura,Ingeniero de Software,5,80000.0
+27,Mujer,Titulo de Maestria,Gerente de Marketing,3,60000.0
+38,Hombre,Doctorado,Cientifico de Datos,12,130000.0
+29,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos,2,45000.0
+23,Hombre,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+32,Mujer,Titulo de Maestria,Desarrollador de Software,7,90000.0
+44,Hombre,Titulo de Licenciatura,Gerente de Operaciones,18,170000.0
+26,Mujer,Titulo de Licenciatura,Coordinador de Marketing,2,40000.0
+40,Hombre,Doctorado,Cientifico de Datos,15,150000.0
+33,Mujer,Titulo de Licenciatura,Gerente de Recursos Humanos,8,95000.0
+24,Hombre,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+35,Mujer,Titulo de Maestria,Gerente de Marketing,10,110000.0
+29,Hombre,Titulo de Licenciatura,Ingeniero de Software,4,70000.0
+49,Hombre,Otro,Cientifico de Datos,22,220000.0
+26,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,2,35000.0
+36,Hombre,Titulo de Licenciatura,Gerente de Operaciones,9,110000.0
+28,Mujer,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+29,Hombre,Titulo de Licenciatura,Desarrollador de Software,5,80000.0
+39,Mujer,Titulo de Maestria,Coordinador de Marketing,11,120000.0
+32,Hombre,Titulo de Licenciatura,Gerente de Operaciones,6,90000.0
+28,Mujer,Titulo de Maestria,Coordinador de Recursos Humanos,2,45000.0
+29,Hombre,Titulo de Licenciatura,Otro,4,70000.0
+49,Hombre,Doctorado,Cientifico de Datos,22,220000.0
+41,Mujer,Titulo de Maestria,Gerente de Recursos Humanos,13,140000.0
+36,Otro,Titulo de Licenciatura,Gerente de Operaciones,9,110000.0
+28,Mujer,Titulo de Maestria,Otro,2,45000.0
+35,Otro,Titulo de Maestria,Gerente de Marketing,10,110000.0
+33,Mujer,Otro,Gerente de Recursos Humanos,8,95000.0
+24,Otro,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+29,Hombre,Titulo de Licenciatura,Ingeniero de Software,0,70000.0
+29,Hombre,Otro,Desarrollador de Software,5,80000.0
+41,Otro,Titulo de Maestria,Gerente de Recursos Humanos,13,140000.0
+43,Hombre,Otro,Cientifico de Datos,16,160000.0
+29,Otro,Titulo de Licenciatura,Desarrollador de Software,5,80000.0
+40,Hombre,Otro,Cientifico de Datos,15,150000.0
+26,Otro,Titulo de Licenciatura,Desarrollador de Software Junior,2,35000.0
+34,Hombre,Titulo de Licenciatura,Ingeniero de Software,6,85000.0
+31,Mujer,Titulo de Maestria,Gerente de Marketing,4,62000.0
+41,Hombre,Doctorado,Cientifico de Datos,13,138000.0
+27,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos,2,47000.0
+25,Hombre,Escuela Secundaria,Asociado de Ventas Junior,0,26000.0
+33,Mujer,Titulo de Maestria,Desarrollador de Software,8,95000.0
+45,Hombre,Titulo de Licenciatura,Gerente de Operaciones,19,174000.0
+42,Hombre,Doctorado,Cientifico de Datos,16,162000.0
+34,Mujer,Titulo de Licenciatura,Gerente de Recursos Humanos,9,99000.0
+23,Hombre,Escuela Secundaria,Asociado de Ventas Junior,1,26000.0
+36,Mujer,Titulo de Maestria,Gerente de Marketing,11,117000.0
+50,Hombre,Doctorado,Otro,23,225000.0
+27,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,0,36000.0
+43,Otro,Titulo de Maestria,Gerente de Recursos Humanos,14,146000.0
+37,Hombre,Titulo de Licenciatura,Gerente de Operaciones,10,113000.0
+29,Mujer,Escuela Secundaria,Asociado de Ventas Junior,1,26000.0
+44,Hombre,Doctorado,Cientifico de Datos,17,168000.0
+30,Hombre,Titulo de Licenciatura,Desarrollador de Software,6,85000.0
+40,Mujer,Titulo de Maestria,Coordinador de Marketing,12,122000.0
+33,Hombre,Titulo de Licenciatura,Gerente de Operaciones,7,96000.0
+29,Otro,Titulo de Maestria,Coordinador de Recursos Humanos,0,49000.0
+43,Hombre,Doctorado,Cientifico de Datos,16,162000.0
+50,Hombre,Doctorado,Cientifico de Datos,23,225000.0
+43,Mujer,Titulo de Maestria,Gerente de Recursos Humanos,14,146000.0
+37,Hombre,Titulo de Licenciatura,Gerente de Operaciones,0,113000.0
+44,Hombre,Doctorado,Otro,17,168000.0
+29,Mujer,Titulo de Maestria,Coordinador de Recursos Humanos,0,49000.0
+30,Hombre,Titulo de Licenciatura,Ingeniero de Software,5,75000.0
+27,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,0,36000.0
+29,Mujer,Titulo de Maestria,Coordinador de Recursos Humanos,3,49000.0
+27,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,2,36000.0
+33,Hombre,Titulo de Licenciatura,Gerente de Operaciones,0,96000.0
+29,Mujer,Titulo de Maestria,Otro,3,49000.0
+30,Hombre,Titulo de Licenciatura,Otro,5,75000.0
+50,Otro,Doctorado,Cientifico de Datos,23,225000.0
+33,Hombre,Otro,Gerente de Operaciones,7,96000.0
+29,Mujer,Titulo de Maestria,bbb,3,49000.0
+43,Hombre,Otro,Cientifico de Datos,16,162000.0
+30,Otro,Titulo de Licenciatura,Ingeniero de Software,0,75000.0
+37,Otro,Titulo de Licenciatura,Gerente de Operaciones,10,113000.0
+33,Hombre,Titulo de Licenciatura,Otro,7,96000.0
+36,Mujer,Otro,Gerente de Marketing,11,117000.0
+29,Otro,Escuela Secundaria,Asociado de Ventas Junior,1,26000.0
+50,Hombre,Otro,Cientifico de Datos,23,225000.0
+28,Mujer,Titulo de Licenciatura,bbb,2,41000.0
+24,Otro,Escuela Secundaria,Asociado de Ventas Junior,1,26000.0
+31,Mujer,Titulo de Maestria,Gerente de Marketing,5,68000.0
+39,Hombre,Titulo de Licenciatura,Gerente de Operaciones,13,127000.0
+25,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos,2,47000.0
+41,Hombre,Doctorado,Cientifico de Datos,15,155000.0
+35,Mujer,Titulo de Licenciatura,Gerente de Recursos Humanos,8,92000.0
+26,Hombre,Escuela Secundaria,Asociado de Ventas Junior,1,26000.0
+37,Mujer,Titulo de Maestria,Gerente de Marketing,12,125000.0
+29,Hombre,Titulo de Licenciatura,Ingeniero de Software,4,71000.0
+51,Hombre,Doctorado,Cientifico de Datos,24,240000.0
+28,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,0,36000.0
+44,Mujer,Titulo de Maestria,Gerente de Recursos Humanos,15,152000.0
+38,Hombre,Titulo de Licenciatura,Gerente de Operaciones,11,119000.0
+30,Mujer,Escuela Secundaria,Asociado de Ventas Junior,1,26000.0
+31,Hombre,Titulo de Licenciatura,Desarrollador de Software,6,85000.0
+41,Mujer,Titulo de Maestria,Coordinador de Marketing,13,131000.0
+34,Hombre,Titulo de Licenciatura,Gerente de Operaciones,8,101000.0
+44,Hombre,Doctorado,Cientifico de Datos,18,182000.0
+26,Otro,Escuela Secundaria,Asociado de Ventas Junior,1,26000.0
+37,Mujer,Otro,Gerente de Marketing,12,125000.0
+51,Otro,Doctorado,Cientifico de Datos,24,240000.0
+28,Otro,Titulo de Licenciatura,Desarrollador de Software Junior,2,36000.0
+30,Mujer,Escuela Secundaria,Asociado de Ventas Junior,0,26000.0
+45,Hombre,Doctorado,Cientifico de Datos,19,190000.0
+30,Mujer,Titulo de Maestria,Coordinador de Recursos Humanos,3,49000.0
+37,Mujer,Titulo de Maestria,bbb,12,125000.0
+28,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,2,36000.0
+38,Hombre,Titulo de Licenciatura,Gerente de Operaciones,0,119000.0
+34,Hombre,Titulo de Licenciatura,Otro,8,101000.0
+38,Hombre,Otro,Gerente de Operaciones,11,119000.0
+34,Otro,Titulo de Licenciatura,Gerente de Operaciones,8,101000.0
+28,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,0,36000.0
+41,Mujer,Titulo de Maestria,Coordinador de Marketing,0,131000.0
+35,Mujer,Titulo de Licenciatura,Otro,8,92000.0
+51,Hombre,Doctorado,Otro,24,240000.0
+44,Mujer,Titulo de Maestria,Gerente de Recursos Humanos,0,152000.0
+44,Hombre,Otro,Cientifico de Datos,18,182000.0
+45,Hombre,Otro,Cientifico de Datos,19,190000.0
+30,Mujer,Titulo de Maestria,Otro,3,49000.0
+35,Mujer,Otro,Gerente de Recursos Humanos,8,92000.0
+41,Mujer,Titulo de Maestria,bbb,13,131000.0
+27,Hombre,Titulo de Licenciatura,Desarrollador de Software,3,62000.0
+42,Mujer,Titulo de Maestria,Gerente de Marketing,0,137000.0
+35,Hombre,Doctorado,Cientifico de Datos,0,112000.0
+33,Hombre,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+36,Mujer,Titulo de Licenciatura,Gerente de Operaciones,7,91000.0
+43,Hombre,Otro,Otro,17,179000.0
+31,Mujer,Titulo de Licenciatura,Ingeniero de Software,5,74000.0
+49,Hombre,Titulo de Maestria,Gerente de Marketing,23,228000.0
+28,Mujer,Titulo de Licenciatura,Desarrollador de Software Junior,2,37000.0
+30,Mujer,Escuela Secundaria,Asociado de Ventas Junior,0,25000.0
+45,Hombre,Titulo de Maestria,Gerente de Marketing,20,204000.0
+27,Mujer,Titulo de Licenciatura,Desarrollador de Software,3,61000.0
+41,Hombre,Doctorado,Cientifico de Datos,15,157000.0
+35,Mujer,Titulo de Maestria,Gerente de Recursos Humanos,8,92000.0
+26,Hombre,Titulo de Licenciatura,Ingeniero de Software,1,52000.0
+30,Mujer,Titulo de Licenciatura,Otro,4,58000.0
+48,Hombre,Otro,Otro,22,219000.0
+32,Mujer,Titulo de Maestria,Gerente de Marketing,6,77000.0
+34,Hombre,Titulo de Licenciatura,Gerente de Operaciones,8,104000.0
+31,Mujer,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+44,Mujer,Doctorado,Cientifico de Datos,18,183000.0
+30,Mujer,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+30,Mujer,Titulo de Licenciatura,Coordinador de Marketing,4,58000.0
+45,Hombre,Otro,Gerente de Marketing,20,204000.0
+48,Hombre,Doctorado,Cientifico de Datos,22,219000.0
+32,Mujer,Titulo de Maestria,Gerente de Marketing,0,77000.0
+31,Mujer,Escuela Secundaria,Otro,1,25000.0
+44,Mujer,Otro,Cientifico de Datos,18,183000.0
+31,Otro,Escuela Secundaria,Asociado de Ventas Junior,1,25000.0
+30,Mujer,Otro,Asociado de Ventas Junior,1,25000.0
+35,Mujer,Titulo de Maestria,Gerente de Recursos Humanos,0,92000.0
+26,Hombre,Titulo de Licenciatura,Ingeniero de Software,0,52000.0
+45,Hombre,Titulo de Maestria,Otro,20,204000.0
+30,Mujer,Escuela Secundaria,bbb,1,25000.0
+41,Hombre,Doctorado,Otro,15,157000.0
+35,Mujer,Titulo de Maestria,Otro,8,92000.0
+48,Hombre,Doctorado,Cientifico de Datos,0,219000.0
+44,Mujer,Doctorado,Cientifico de Datos,0,183000.0
+31,Mujer,Titulo de Maestria,Director de Recursos Humanos,6,95000.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Web Junior,2,45000.0
+29,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Senior,4,70000.0
+35,Hombre,Doctorado,Gerente Senior de Recursos Humanos,10,110000.0
+26,Mujer,Escuela Secundaria,Desarrollador Web,1,35000.0
+32,Hombre,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,5,60000.0
+27,Mujer,Titulo de Maestria,Desarrollador Web,2,50000.0
+39,Hombre,Otro,Director de Recursos Humanos,12,120000.0
+23,Mujer,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,1,32000.0
+30,Hombre,Titulo de Licenciatura,Desarrollador Web,4,65000.0
+26,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos Junior,1,35000.0
+42,Hombre,Doctorado,Gerente Senior de Recursos Humanos,14,130000.0
+34,Mujer,Titulo de Maestria,Director de Recursos Humanos,9,95000.0
+28,Hombre,Escuela Secundaria,Generalista de Recursos Humanos Junior,2,43000.0
+31,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos Junior,4,50000.0
+35,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Senior,8,80000.0
+26,Hombre,Titulo de Maestria,Desarrollador Web Junior,2,48000.0
+40,Mujer,Doctorado,bbb,13,125000.0
+34,Hombre,Titulo de Licenciatura,Desarrollador Web,7,85000.0
+26,Mujer,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,2,42000.0
+29,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,4,70000.0
+25,Mujer,Escuela Secundaria,Coordinador de Recursos Humanos Junior,1,32000.0
+33,Hombre,Titulo de Maestria,Desarrollador Web,6,80000.0
+27,Mujer,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,2,42000.0
+31,Hombre,Doctorado,Gerente Senior de Recursos Humanos,7,90000.0
+24,Hombre,Titulo de Licenciatura,Desarrollador Web Junior,1,40000.0
+42,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Senior,12,110000.0
+34,Hombre,Titulo de Maestria,Director de Recursos Humanos,10,105000.0
+28,Mujer,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,0,50000.0
+33,Hombre,Doctorado,Director de Recursos Humanos,8,95000.0
+29,Mujer,Titulo de Licenciatura,Desarrollador Web,3,60000.0
+25,Hombre,Escuela Secundaria,Generalista de Recursos Humanos Junior,2,40000.0
+26,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Senior,2,55000.0
+30,Hombre,Titulo de Licenciatura,Desarrollador Web,5,70000.0
+31,Hombre,Titulo de Maestria,Director de Recursos Humanos,7,90000.0
+27,Mujer,Titulo de Licenciatura,Desarrollador Web,2,50000.0
+26,Mujer,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,1,32000.0
+32,Hombre,Otro,Desarrollador Web,6,80000.0
+29,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Senior,0,70000.0
+25,Hombre,Otro,Desarrollador Web,2,45000.0
+33,Mujer,Titulo de Licenciatura,Otro,7,65000.0
+28,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos Junior,3,45000.0
+34,Hombre,Doctorado,Director de Recursos Humanos,9,95000.0
+30,Mujer,Titulo de Licenciatura,Desarrollador Web,0,65000.0
+26,Hombre,Titulo de Licenciatura,Coordinador de Recursos Humanos Junior,2,38000.0
+42,Mujer,Titulo de Maestria,Gerente Senior de Recursos Humanos,13,125000.0
+34,Hombre,Titulo de Maestria,Desarrollador Web,8,90000.0
+28,Mujer,Escuela Secundaria,Generalista de Recursos Humanos Junior,2,43000.0
+31,Otro,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,5,60000.0
+29,Mujer,Titulo de Maestria,Desarrollador Web,3,60000.0
+26,Mujer,Titulo de Licenciatura,Desarrollador Web,1,35000.0
+32,Hombre,Titulo de Maestria,Director de Recursos Humanos,6,95000.0
+27,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Junior,2,42000.0
+39,Hombre,Titulo de Maestria,Generalista de Recursos Humanos Senior,11,100000.0
+23,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos Junior,1,32000.0
+30,Otro,Titulo de Licenciatura,Desarrollador Web,4,65000.0
+42,Hombre,Doctorado,Director de Recursos Humanos,14,130000.0
+28,Hombre,Escuela Secundaria,Desarrollador Web Junior,2,43000.0
+29,Hombre,Titulo de Licenciatura,Desarrollador Web,3,60000.0
+35,Mujer,Titulo de Maestria,Generalista de Recursos Humanos Senior,0,80000.0
+40,Mujer,Doctorado,Director de Recursos Humanos,13,125000.0
+26,Mujer,Otro,Generalista de Recursos Humanos Junior,0,42000.0
+28,Mujer,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,3,50000.0
+30,Hombre,Titulo de Licenciatura,Otro,5,70000.0
+24,Mujer,Otro,Coordinador de Recursos Humanos Junior,1,32000.0
+35,Hombre,Otro,Gerente Senior de Recursos Humanos,10,110000.0
+32,Hombre,Titulo de Maestria,Desarrollador Web,6,80000.0
+25,Hombre,Escuela Secundaria,Desarrollador Web,2,45000.0
+33,Mujer,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,7,65000.0
+27,Hombre,Titulo de Maestria,Desarrollador Web,2,50000.0
+34,Hombre,Doctorado,Director de Recursos Humanos,0,95000.0
+30,Mujer,Titulo de Licenciatura,Desarrollador Web,4,65000.0
+28,Mujer,Escuela Secundaria,Generalista de Recursos Humanos Junior,0,43000.0
+31,Hombre,Titulo de Licenciatura,Generalista de Recursos Humanos Junior,5,60000.0
+29,Otro,Titulo de Maestria,Desarrollador Web,3,60000.0
+28,Hombre,Escuela Secundaria,bbb,2,43000.0
+31,Mujer,Titulo de Licenciatura,Coordinador de Recursos Humanos Junior,4,500.0
+27,Mujer,Titulo de Licenciatura,Ingeniero de Software Junior,1,45000.0
+33,Hombre,Titulo de Maestria,Cientifico de Datos Senior,8,120000.0
+29,Mujer,Titulo de Licenciatura,Coordinador de Marketing,3,55000.0
+31,Hombre,Titulo de Licenciatura,Gerente de Marketing Junior,0,70000.0
+38,Mujer,Doctorado,Cientifico Investigador Senior,12,140000.0
+25,Hombre,Otro,Asociado de Ventas Junior,1,30000.0
+27,Hombre,Titulo de Licenciatura,Analista de Datos Junior,2,50000.0
+29,Mujer,Otro,Gerente de Marketing Junior,3,55000.0
+35,Hombre,Doctorado,Cientifico Investigador Senior,10,130000.0
+26,Mujer,Titulo de Licenciatura,Ingeniero de Software Junior,1,45000.0
+25,Hombre,Escuela Secundaria,Asociado de Ventas Junior,1,30000.0
+32,Mujer,Titulo de Maestria,Ingeniero de Software Senior,7,100000.0
+27,Hombre,Titulo de Licenciatura,Analista de Datos Junior,0,50000.0
+29,Mujer,Titulo de Licenciatura,Gerente de Marketing Junior,3,55000.0
+31,Hombre,Titulo de Licenciatura,Gerente de Marketing Junior,5,70000.0
+29,Mujer,Titulo de Licenciatura,Coordinador de Marketing,0,55000.0
+35,Hombre,Doctorado,Cientifico Investigador Senior,0,130000.0
+26,Otro,Titulo de Licenciatura,Ingeniero de Software Junior,0,45000.0
+26,Mujer,Titulo de Licenciatura,bbb,1,45000.0
+29,Mujer,Titulo de Licenciatura,bbb,3,55000.0
+29,Mujer,Titulo de Licenciatura,Gerente de Marketing Junior,0,55000.0
+33,Hombre,Titulo de Maestria,Otro,8,120000.0
+29,Mujer,Titulo de Licenciatura,Coordinador de Marketing,0,55000.0
+29,Mujer,Titulo de Licenciatura,Gerente de Marketing Junior,0,55000.0
+31,Hombre,Titulo de Licenciatura,Gerente de Marketing Junior,0,70000.0
+27,Hombre,Titulo de Licenciatura,Otro,2,50000.0
+35,Hombre,Doctorado,Otro,10,130000.0
+28,Mujer,Titulo de Licenciatura,Ingeniero de Software Junior,2,48000.0
+36,Hombre,Titulo de Maestria,Cientifico de Datos Senior,0,125000.0
+30,Mujer,Titulo de Licenciatura,Coordinador de Marketing,0,57000.0
+32,Hombre,Titulo de Licenciatura,Gerente de Marketing Junior,6,72000.0
+39,Mujer,Doctorado,Cientifico Investigador Senior,13,145000.0
+26,Hombre,Escuela Secundaria,Asociado de Ventas Junior,0,31000.0
+33,Mujer,Titulo de Maestria,Ingeniero de Software Senior,8,105000.0
+28,Hombre,Titulo de Licenciatura,Analista de Datos Junior,0,52000.0
+30,Otro,Titulo de Licenciatura,Gerente de Marketing Junior,4,57000.0
+36,Hombre,Doctorado,Cientifico Investigador Senior,11,135000.0
+27,Mujer,Titulo de Licenciatura,Ingeniero de Software Junior,2,48000.0
+34,Hombre,Otro,Cientifico de Datos Senior,9,125000.0
+30,Mujer,Titulo de Licenciatura,Coordinador de Marketing,4,57000.0
+39,Otro,Doctorado,Cientifico Investigador Senior,13,145000.0
+26,Hombre,Escuela Secundaria,Asociado de Ventas Junior,2,31000.0
+28,Hombre,Titulo de Licenciatura,Analista de Datos Junior,3,52000.0
+30,Mujer,Titulo de Licenciatura,Gerente de Marketing Junior,4,57000.0
+36,Hombre,Otro,Cientifico Investigador Senior,11,135000.0
+34,Hombre,Titulo de Maestria,Cientifico de Datos Senior,9,125000.0
+30,Otro,Titulo de Licenciatura,Coordinador de Marketing,0,57000.0
+33,Mujer,Titulo de Maestria,Ingeniero de Software Senior,0,105000.0
+32,Hombre,Otro,Gerente de Marketing Junior,6,72000.0
+39,Mujer,Doctorado,Otro,13,145000.0
+26,Otro,Escuela Secundaria,Asociado de Ventas Junior,0,31000.0
+28,Hombre,Titulo de Licenciatura,Otro,3,52000.0
+27,Mujer,Titulo de Licenciatura,Ingeniero de Software Junior,0,48000.0
+26,Hombre,Escuela Secundaria,bbb,2,31000.0
+30,Mujer,Titulo de Licenciatura,Gerente de Marketing Junior,0,57000.0
+36,Hombre,Doctorado,Otro,0,135000.0
+33,Mujer,Otro,Ingeniero de Software Senior,8,105000.0
+34,Hombre,Titulo de Maestria,Otro,9,125000.0
+26,Hombre,Otro,bbb,2,31000.0
+30,Otro,Otro,Gerente de Marketing Junior,4,57000.0
+30,Otro,Titulo de Licenciatura,Coordinador de Marketing,4,57000.0
+26,Hombre,Titulo de Licenciatura,Gerente Senior de Marketing de Producto,5,85000.0
+28,Mujer,Titulo de Maestria,Gerente de Marketing,7,110000.0
+34,Hombre,Doctorado,Director de Marketing,12,170000.0
+24,Mujer,Escuela Secundaria,Asociado de Ventas,1,30000.0
+29,Hombre,Titulo de Licenciatura,Gerente de Marketing Digital,6,95000.0
+27,Mujer,Titulo de Maestria,Gerente de Marketing de Contenidos,4,80000.0
+33,Hombre,Doctorado,Director de Ventas,10,155000.0
+21,Mujer,Escuela Secundaria,Representante de Ventas Junior,0,25000.0
+36,Hombre,Titulo de Licenciatura,Gerente de Ventas,11,160000.0
+25,Mujer,Titulo de Licenciatura,Gerente de Marketing,3,65000.0
+28,Otro,Doctorado,Director de Marketing,6,105000.0
+31,Hombre,Titulo de Licenciatura,Director de Ventas,9,140000.0
+24,Mujer,Otro,Asociado de Ventas,1,30000.0
+30,Hombre,Titulo de Maestria,Gerente Financiero,7,120000.0
+26,Hombre,Titulo de Licenciatura,Otro,5,85000.0
+28,Otro,Titulo de Maestria,Gerente de Marketing,7,110000.0
+33,Hombre,Doctorado,bbb,10,155000.0
+28,Mujer,Doctorado,Director de Marketing,0,105000.0
+27,Otro,Titulo de Maestria,Gerente de Marketing de Contenidos,4,80000.0
+28,Mujer,Doctorado,Director de Marketing,6,105000.0
+28,Mujer,Titulo de Maestria,Gerente de Marketing,0,110000.0
+29,Hombre,Titulo de Licenciatura,Gerente de Marketing Digital,0,95000.0
+33,Otro,Doctorado,Director de Ventas,0,155000.0
+21,Mujer,Escuela Secundaria,Representante de Ventas Junior,0,25000.0
+25,Mujer,Titulo de Licenciatura,bbb,3,65000.0
+34,Hombre,Doctorado,Otro,12,170000.0
+29,Hombre,Otro,Gerente de Marketing Digital,6,95000.0
+27,Mujer,Titulo de Maestria,Otro,4,80000.0
+26,Otro,Titulo de Licenciatura,Gerente Senior de Marketing de Producto,0,85000.0
+31,Otro,Titulo de Licenciatura,Director de Ventas,9,140000.0
+33,Hombre,Doctorado,Director de Ventas,0,155000.0
+21,Otro,Escuela Secundaria,Representante de Ventas Junior,0,25000.0
+28,Mujer,Titulo de Maestria,Otro,7,110000.0
+31,Hombre,Titulo de Licenciatura,Otro,9,140000.0
+22,Mujer,Escuela Secundaria,Asociado de Ventas,0,25000.0
+45,Hombre,Titulo de Licenciatura,Gerente Financiero,21,250000.0
+31,Mujer,Titulo de Maestria,Gerente de Marketing de Contenidos,8,120000.0
+28,Hombre,Titulo de Licenciatura,Gerente de Marketing Digital,4,80000.0
+29,Hombre,Titulo de Licenciatura,Gerente Senior de Marketing de Producto,6,100000.0
+35,Mujer,Doctorado,Director de Marketing,12,170000.0
+27,Hombre,Escuela Secundaria,Representante de Ventas,3,50000.0
+33,Mujer,Titulo de Licenciatura,Gerente de Marketing,9,140000.0
+29,Mujer,Titulo de Maestria,Gerente de Marketing de Contenidos,4,80000.0
+36,Hombre,Titulo de Licenciatura,Otro,11,160000.0
+25,Mujer,Titulo de Licenciatura,Otro,3,65000.0
+28,Otro,Otro,Director de Marketing,6,105000.0
+33,Otro,Doctorado,Director de Ventas,10,155000.0
+28,Mujer,Doctorado,Director de Marketing,0,105000.0
+26,Otro,Titulo de Licenciatura,Gerente Senior de Marketing de Producto,5,85000.0
+24,Mujer,Escuela Secundaria,Otro,1,30000.0
+33,Hombre,Otro,Director de Ventas,10,155000.0
+30,Hombre,Titulo de Maestria,Gerente Financiero,0,120000.0
+26,Hombre,Titulo de Licenciatura,bbb,5,85000.0
+36,Hombre,Titulo de Licenciatura,bbb,11,160000.0
+23,Otro,Titulo de Licenciatura,Ingeniero de Software,1,60000.0
+39,Mujer,Titulo de Maestria,Gerente de Marketing,12,150000.0
+28,Hombre,Otro,Analista Financiero,4,80000.0
+31,Mujer,Doctorado,Cientifico Investigador,8,120000.0
+35,Hombre,Titulo de Licenciatura,Gerente de Proyectos,10,130000.0
+27,Mujer,Titulo de Licenciatura,Diseñador Grafico,2,50000.0
+42,Hombre,Titulo de Maestria,Ingeniero de Software Senior,18,180000.0
+29,Mujer,Titulo de Licenciatura,Especialista en Marketing Digital,3,60000.0
+33,Hombre,Titulo de Licenciatura,Otro,7,110000.0
+24,Mujer,Escuela Secundaria,Asociado de Ventas,0,25000.0
+30,Hombre,Titulo de Maestria,Analista Financiero,6,100000.0
+26,Mujer,Titulo de Licenciatura,Gerente de Redes Sociales,3,55000.0
+32,Hombre,Doctorado,Cientifico de Datos,9,140000.0
+22,Mujer,Escuela Secundaria,Recepcionista,0,25000.0
+37,Hombre,Titulo de Licenciatura,Gerente de Producto,12,150000.0
+38,Mujer,Titulo de Maestria,Director de Marketing,14,170000.0
+25,Hombre,Titulo de Licenciatura,Ingeniero de Software Junior,1,55000.0
+29,Mujer,Titulo de Licenciatura,Coordinador de Marketing,4,65000.0
+27,Hombre,Titulo de Licenciatura,Diseñador de Producto,3,60000.0
+34,Mujer,Otro,Director de Investigacion,10,150000.0
+26,Hombre,Titulo de Licenciatura,Analista de Marketing,2,50000.0
+31,Mujer,Otro,Gerente Financiero,7,120000.0
+25,Hombre,Titulo de Licenciatura,bbb,1,55000.0
+29,Otro,Titulo de Licenciatura,Coordinador de Marketing,4,65000.0
+31,Mujer,Titulo de Maestria,Gerente Financiero,7,120000.0
+23,Hombre,Titulo de Licenciatura,Ingeniero de Software,1,60000.0
+28,Hombre,Titulo de Licenciatura,Analista Financiero,4,80000.0
+42,Hombre,Otro,Ingeniero de Software Senior,18,180000.0
+27,Hombre,Titulo de Licenciatura,Diseñador de Producto,0,60000.0
+34,Mujer,Doctorado,Director de Investigacion,10,150000.0
+27,Hombre,Titulo de Licenciatura,bbb,3,60000.0
+33,Hombre,Titulo de Licenciatura,Gerente de Marketing,7,110000.0
+37,Otro,Titulo de Licenciatura,Gerente de Producto,12,150000.0
+27,Hombre,Otro,Diseñador de Producto,3,60000.0
+28,Otro,Titulo de Licenciatura,Analista Financiero,0,80000.0
+29,Mujer,Titulo de Licenciatura,Otro,3,60000.0
+25,Otro,Titulo de Licenciatura,Ingeniero de Software Junior,1,55000.0
+28,Otro,Titulo de Licenciatura,Analista Financiero,4,80000.0
+35,Hombre,Titulo de Licenciatura,Otro,10,130000.0
+27,Mujer,Otro,Diseñador Grafico,2,50000.0
+33,Hombre,Titulo de Licenciatura,bbb,0,110000.0
+28,Hombre,Titulo de Licenciatura,Ingeniero de Software,3,85000.0
+36,Otro,Titulo de Maestria,Director de Marketing,11,160000.0
+29,Mujer,Doctorado,bbb,5,100000.0
+33,Hombre,Titulo de Licenciatura,Gerente de Proyectos,8,120000.0
+43,Hombre,Titulo de Maestria,Ingeniero de Software Senior,19,185000.0
+30,Mujer,Titulo de Licenciatura,Especialista en Marketing Digital,4,65000.0
+34,Otro,Titulo de Licenciatura,Gerente de Marketing,9,130000.0
+25,Mujer,Escuela Secundaria,Asociado de Ventas,0,25000.0
+31,Hombre,Titulo de Maestria,Analista Financiero,6,100000.0
+27,Mujer,Titulo de Licenciatura,Gerente de Redes Sociales,3,55000.0
+33,Hombre,Doctorado,Cientifico Investigador,10,150000.0
+23,Mujer,Otro,Recepcionista,0,25000.0
+38,Hombre,Titulo de Licenciatura,Gerente de Producto,13,160000.0
+39,Mujer,Titulo de Maestria,Gerente de Marketing,14,170000.0
+26,Hombre,Titulo de Licenciatura,Ingeniero de Software Junior,1,55000.0
+30,Mujer,Titulo de Licenciatura,Coordinador de Marketing,4,65000.0
+28,Hombre,Titulo de Licenciatura,Diseñador de Producto,3,60000.0
+35,Mujer,Doctorado,Director de Investigacion,11,160000.0
+32,Otro,Titulo de Maestria,Gerente Financiero,8,120000.0
+35,Mujer,Doctorado,Director de Investigacion,0,160000.0
+27,Hombre,Titulo de Licenciatura,Analista de Marketing,0,50000.0
+32,Mujer,Titulo de Maestria,Gerente Financiero,8,120000.0
+36,Mujer,Titulo de Maestria,bbb,11,160000.0
+25,Hombre,Titulo de Licenciatura,Analista Financiero,1,55000.0
+29,Mujer,Doctorado,Cientifico de Datos,5,100000.0
+34,Hombre,Titulo de Licenciatura,Gerente de Marketing,9,130000.0
+27,Hombre,Titulo de Licenciatura,Analista de Marketing,2,50000.0
+28,Hombre,Titulo de Licenciatura,bbb,3,85000.0
+36,Mujer,Titulo de Maestria,Director de Marketing,11,160000.0
+27,Mujer,Titulo de Licenciatura,Diseñador Grafico,0,50000.0
+39,Mujer,Titulo de Maestria,Gerente de Marketing,0,170000.0
+26,Otro,Titulo de Licenciatura,Ingeniero de Software Junior,1,55000.0
+27,Hombre,Titulo de Licenciatura,Analista de Marketing,0,50000.0
+28,Otro,Titulo de Licenciatura,Ingeniero de Software,3,85000.0
+23,Mujer,Escuela Secundaria,Recepcionista,0,25000.0
+28,Hombre,Titulo de Licenciatura,Otro,3,60000.0
+28,Hombre,Titulo de Licenciatura,Otro,3,85000.0
+27,Mujer,Otro,Gerente de Redes Sociales,3,55000.0
+33,Otro,Doctorado,Cientifico Investigador,10,150000.0
+27,Hombre,Titulo de Licenciatura,Ingeniero de Software,3,85000.0
+35,Mujer,Titulo de Maestria,Director de Marketing,11,160000.0
+24,Hombre,Titulo de Licenciatura,Analista Financiero,1,55000.0
+28,Mujer,Doctorado,Cientifico de Datos,5,100000.0
+32,Hombre,Titulo de Licenciatura,Gerente de Proyectos,8,120000.0
+26,Mujer,Titulo de Licenciatura,Diseñador Grafico,2,50000.0
+41,Hombre,Titulo de Maestria,Ingeniero de Software Senior,19,185000.0
+29,Mujer,Titulo de Licenciatura,Especialista en Marketing Digital,4,65000.0
+33,Hombre,Titulo de Licenciatura,Gerente de Marketing,9,130000.0
+32,Hombre,Doctorado,Cientifico Investigador,10,150000.0
+37,Hombre,Titulo de Licenciatura,Gerente de Producto,13,160000.0
+38,Mujer,Titulo de Maestria,Gerente de Marketing,14,170000.0
+31,Otro,Titulo de Licenciatura,Coordinador de Marketing,4,65000.0
+29,Hombre,Titulo de Licenciatura,Diseñador de Producto,0,60000.0
+34,Mujer,Doctorado,Director de Investigacion,11,160000.0
+31,Mujer,Titulo de Maestria,Gerente Financiero,8,120000.0
+27,Hombre,Titulo de Licenciatura,Ingeniero de Software Junior,1,55000.0
+31,Mujer,Otro,Coordinador de Marketing,4,65000.0
+29,Hombre,Titulo de Licenciatura,Diseñador de Producto,3,60000.0
+24,Hombre,Titulo de Licenciatura,Analista Financiero,0,55000.0
+41,Hombre,Otro,Ingeniero de Software Senior,19,185000.0
+29,Mujer,Titulo de Licenciatura,Especialista en Marketing Digital,0,65000.0
+26,Otro,Titulo de Licenciatura,Gerente de Redes Sociales,3,55000.0
+38,Mujer,Titulo de Maestria,bbb,14,170000.0
+31,Mujer,Titulo de Licenciatura,Coordinador de Marketing,4,65000.0
+27,Hombre,Otro,Ingeniero de Software Junior,1,55000.0
+34,Mujer,Doctorado,Director de Investigacion,0,160000.0
+29,Mujer,Titulo de Licenciatura,bbb,4,65000.0
+30,Hombre,Otro,Analista Financiero,6,100000.0
+26,Mujer,Titulo de Licenciatura,bbb,3,55000.0
+27,Otro,Titulo de Licenciatura,Ingeniero de Software Junior,1,55000.0
+27,Hombre,Otro,Ingeniero de Software,3,85000.0
+30,Hombre,Titulo de Maestria,Otro,6,100000.0
+37,Hombre,Titulo de Licenciatura,Otro,13,160000.0
+31,Mujer,Titulo de Licenciatura,bbb,4,65000.0
+31,Otro,Titulo de Maestria,Gerente Financiero,8,120000.0
+26,Mujer,Titulo de Licenciatura,Gerente de Redes Sociales,7,100000.0
+31,Hombre,Titulo de Licenciatura,Ingeniero de Software,7,120000.0
+33,Hombre,Titulo de Maestria,Gerente de Marketing,9,130000.0
+27,Mujer,Titulo de Licenciatura,Coordinador de Marketing,2,50000.0
+31,Hombre,Otro,Gerente de Proyectos,0,100000.0
+28,Mujer,Titulo de Maestria,Analista Financiero,4,80000.0
+25,Hombre,Titulo de Licenciatura,Otro,1,60000.0
+30,Mujer,Titulo de Licenciatura,Otro,5,90000.0
+34,Hombre,Doctorado,Director de Investigacion,11,170000.0
+28,Mujer,Otro,Analista de Marketing,3,60000.0
+24,Mujer,Escuela Secundaria,Recepcionista,0,25000.0
+37,Hombre,Titulo de Maestria,Director de Marketing,14,180000.0
+39,Mujer,Titulo de Licenciatura,Gerente Financiero,16,200000.0
+31,Mujer,Doctorado,Cientifico de Datos,8,140000.0
+29,Hombre,Titulo de Licenciatura,Analista de Marketing,4,70000.0
+33,Mujer,Titulo de Maestria,Gerente de Marketing,9,130000.0
+27,Hombre,Titulo de Licenciatura,Ingeniero de Software,3,80000.0
+36,Mujer,Doctorado,Cientifico Investigador,12,160000.0
+25,Otro,Titulo de Licenciatura,Gerente de Producto,1,55000.0
+28,Mujer,Titulo de Licenciatura,Analista de Marketing,3,60000.0
+32,Hombre,Titulo de Licenciatura,Gerente de Producto,7,120000.0
+24,Mujer,Escuela Secundaria,Recepcionista,0,25000.0
+26,Hombre,Titulo de Licenciatura,Diseñador de Producto,2,50000.0
+31,Otro,Doctorado,Cientifico de Datos,0,140000.0
+27,Hombre,Otro,Ingeniero de Software,3,80000.0
+25,Hombre,Titulo de Licenciatura,Gerente de Producto,1,55000.0
+30,Mujer,Titulo de Licenciatura,Coordinador de Marketing,5,85000.0
+29,Otro,Titulo de Licenciatura,Analista de Marketing,4,70000.0
+31,Mujer,Doctorado,Cientifico de Datos,0,140000.0
+36,Otro,Doctorado,bbb,12,160000.0
+25,Hombre,Titulo de Licenciatura,Gerente de Producto,0,55000.0
+32,Otro,Titulo de Licenciatura,Otro,7,120000.0
+26,Hombre,Titulo de Licenciatura,Diseñador de Producto,0,50000.0
+33,Otro,Titulo de Maestria,Gerente de Marketing,9,130000.0
+32,Hombre,Titulo de Licenciatura,Otro,7,120000.0
+37,Hombre,Titulo de Maestria,Otro,14,180000.0
+31,Mujer,Doctorado,bbb,8,140000.0
+33,Mujer,Titulo de Maestria,Otro,9,130000.0
+30,Mujer,Titulo de Licenciatura,Otro,5,85000.0
+28,Mujer,Titulo de Licenciatura,Analista de Marketing,0,60000.0
+32,Otro,Titulo de Licenciatura,Gerente de Producto,7,120000.0
+29,Hombre,Titulo de Licenciatura,Analista de Marketing,0,70000.0
+39,Mujer,Otro,Gerente Financiero,16,200000.0
+27,Hombre,Titulo de Licenciatura,Ingeniero de Software,0,80000.0
+30,Mujer,Titulo de Licenciatura,bbb,5,85000.0
+28,Mujer,Titulo de Licenciatura,Coordinador de Marketing,3,60000.0
+26,Mujer,Titulo de Licenciatura,Diseñador Grafico,1,45000.0
+29,Hombre,Titulo de Licenciatura,Gerente de Producto,5,80000.0
+35,Mujer,Doctorado,Cientifico Investigador,11,150000.0
+27,Hombre,Titulo de Licenciatura,Otro,2,65000.0
+31,Mujer,Titulo de Licenciatura,Gerente de Marketing,0,100000.0
+28,Hombre,Titulo de Maestria,Analista Financiero,4,90000.0
+24,Mujer,Titulo de Licenciatura,Analista de Marketing,0,40000.0
+30,Hombre,Titulo de Licenciatura,Gerente de Proyectos,6,110000.0
+34,Mujer,Doctorado,Director de Investigacion,12,170000.0
+27,Hombre,Titulo de Licenciatura,Ingeniero de Software,3,75000.0
+33,Mujer,Titulo de Maestria,Gerente de Marketing,8,120000.0
+25,Mujer,Escuela Secundaria,Representante de Servicio al Cliente,1,30000.0
+36,Hombre,Doctorado,Cientifico Investigador,13,180000.0
+39,Mujer,Titulo de Licenciatura,Gerente Financiero,15,200000.0
+26,Hombre,Titulo de Licenciatura,Diseñador de Producto,1,50000.0
+28,Otro,Titulo de Licenciatura,Analista de Marketing,3,65000.0
+32,Mujer,Titulo de Licenciatura,Gerente de Producto,7,110000.0
+24,Hombre,Escuela Secundaria,Conductor de Entrega,0,28000.0
+37,Hombre,Titulo de Maestria,Director de Marketing,14,190000.0
+26,Hombre,Titulo de Licenciatura,Diseñador de Producto,2,55000.0
+25,Hombre,Titulo de Licenciatura,Gerente de Producto,1,60000.0
+30,Mujer,Titulo de Licenciatura,Coordinador de Marketing,5,90000.0
+34,Hombre,Doctorado,Director de Investigacion,11,160000.0
+28,Mujer,Titulo de Licenciatura,Analista de Marketing,0,60000.0
+36,Mujer,Doctorado,Cientifico Investigador,12,170000.0
+24,Mujer,Otro,Recepcionista,0,25000.0
+26,Hombre,Titulo de Licenciatura,Diseñador de Producto,0,55000.0
+29,Hombre,Titulo de Licenciatura,bbb,4,70000.0
+34,Hombre,Otro,Director de Investigacion,11,160000.0
+24,Mujer,Escuela Secundaria,Otro,0,25000.0
+32,Hombre,Titulo de Licenciatura,bbb,7,120000.0
+37,Otro,Titulo de Maestria,Director de Marketing,14,190000.0
+31,Otro,Doctorado,bbb,0,140000.0
+39,Otro,Titulo de Licenciatura,Gerente Financiero,16,200000.0
+33,Mujer,Titulo de Maestria,Gerente de Marketing,0,130000.0
+29,Hombre,Titulo de Licenciatura,Ingeniero de Software,3,75000.0
+32,Mujer,Titulo de Maestria,bbb,8,120000.0
+27,Hombre,Titulo de Licenciatura,Gerente de Producto,2,65000.0
+30,Mujer,Doctorado,Cientifico de Datos,6,100000.0
+36,Hombre,Titulo de Licenciatura,Analista Financiero,11,150000.0
+33,Hombre,Titulo de Maestria,Ingeniero de Software,9,120000.0
+26,Mujer,Otro,Diseñador Grafico,1,45000.0
+27,Hombre,Titulo de Licenciatura,Ingeniero de Software,2,65000.0
+31,Mujer,Titulo de Licenciatura,Gerente de Marketing,7,100000.0
+34,Mujer,Doctorado,Director de Investigacion,0,170000.0
+28,Hombre,Titulo de Licenciatura,Analista de Marketing,3,65000.0
+24,Hombre,Escuela Secundaria,Otro,0,28000.0
+39,Mujer,Titulo de Licenciatura,Gerente Financiero,16,210000.0
+31,Mujer,Doctorado,Otro,8,140000.0
+36,Otro,Doctorado,Cientifico Investigador,12,170000.0
+30,Mujer,Titulo de Licenciatura,bbb,5,90000.0
+33,Mujer,Titulo de Maestria,bbb,9,130000.0
+37,Hombre,Otro,Director de Marketing,14,190000.0
+25,Hombre,Otro,Gerente de Producto,1,60000.0
+26,Otro,Titulo de Licenciatura,Diseñador de Producto,2,55000.0
+24,Mujer,Otro,Recepcionista,0,25000.0
+27,Hombre,Doctorado,Coordinador de Marketing,7,120000.0
+33,Hombre,Titulo de Maestria,Ingeniero de Software,8,120000.0
+27,Mujer,Titulo de Licenciatura,Gerente de Producto,2,65000.0
+30,Hombre,Doctorado,Cientifico de Datos,6,100000.0
+36,Mujer,Titulo de Licenciatura,Analista Financiero,0,150000.0
+29,Hombre,Titulo de Licenciatura,Analista de Marketing,3,65000.0
+32,Mujer,Titulo de Maestria,Ingeniero de Software,9,120000.0
+26,Hombre,Otro,Diseñador Grafico,1,45000.0
+29,Mujer,Titulo de Licenciatura,Gerente de Producto,5,80000.0
+35,Hombre,Doctorado,Cientifico Investigador,11,150000.0
+33,Otro,Titulo de Maestria,Gerente de Marketing,8,120000.0
+25,Mujer,Escuela Secundaria,bbb,1,30000.0
+24,Mujer,Escuela Secundaria,bbb,0,25000.0
+31,Mujer,Otro,Cientifico de Datos,8,140000.0
+32,Hombre,Titulo de Licenciatura,Gerente de Producto,0,120000.0
+37,Otro,Titulo de Maestria,Director de Marketing,0,190000.0
+27,Otro,Titulo de Licenciatura,Ingeniero de Software,3,80000.0
+31,Otro,Doctorado,Cientifico de Datos,8,140000.0
+28,Mujer,Titulo de Licenciatura,Otro,3,60000.0
+26,Hombre,Titulo de Licenciatura,Diseñador de Producto,0,55000.0
+25,Hombre,Titulo de Licenciatura,Gerente de Producto,0,60000.0
+37,Hombre,Titulo de Maestria,Director de Marketing,0,190000.0
+34,Hombre,Titulo de Maestria,Ingeniero de Software,9,125000.0
+28,Mujer,Titulo de Licenciatura,Gerente de Producto,3,70000.0
+31,Hombre,Doctorado,Cientifico de Datos,7,110000.0
+37,Mujer,Titulo de Licenciatura,Analista Financiero,0,160000.0
+30,Hombre,Titulo de Licenciatura,Analista de Marketing,4,75000.0
+33,Mujer,Titulo de Maestria,Ingeniero de Software,8,120000.0
+27,Hombre,Titulo de Licenciatura,Diseñador Grafico,0,50000.0
+30,Mujer,Titulo de Licenciatura,Gerente de Producto,5,85000.0
+36,Hombre,Doctorado,Cientifico Investigador,11,155000.0
+28,Hombre,Titulo de Licenciatura,Ingeniero de Software,3,70000.0
+32,Mujer,Titulo de Licenciatura,Gerente de Marketing,8,115000.0
+29,Hombre,Otro,Analista Financiero,5,95000.0
+31,Hombre,Titulo de Licenciatura,Gerente de Proyectos,6,115000.0
+35,Mujer,Doctorado,Director de Investigacion,12,175000.0
+33,Mujer,Titulo de Maestria,Gerente de Marketing,9,135000.0
+29,Hombre,Titulo de Licenciatura,Analista de Marketing,4,75000.0
+36,Hombre,Doctorado,Cientifico Investigador,13,185000.0
+40,Mujer,Titulo de Licenciatura,Gerente Financiero,15,210000.0
+27,Hombre,Titulo de Licenciatura,Diseñador de Producto,0,45000.0
+32,Mujer,Doctorado,Cientifico de Datos,9,145000.0
+28,Hombre,Titulo de Licenciatura,Analista de Marketing,3,70000.0
+32,Mujer,Titulo de Licenciatura,Gerente de Producto,7,120000.0
+24,Hombre,Escuela Secundaria,Conductor de Entrega,0,28000.0
+38,Hombre,Titulo de Maestria,Director de Marketing,14,195000.0
+40,Mujer,Titulo de Licenciatura,Gerente Financiero,16,215000.0
+27,Hombre,Titulo de Licenciatura,Diseñador de Producto,2,55000.0
+36,Mujer,Doctorado,Cientifico Investigador,13,185000.0
+30,Mujer,Titulo de Licenciatura,Coordinador de Marketing,5,95000.0
+34,Hombre,Doctorado,Director de Investigacion,12,170000.0
+28,Mujer,Titulo de Licenciatura,Analista de Marketing,3,65000.0
+33,Mujer,Titulo de Maestria,Otro,9,135000.0
+25,Hombre,Titulo de Licenciatura,Gerente de Producto,0,60000.0
+30,Mujer,Titulo de Licenciatura,bbb,5,95000.0
+32,Hombre,Otro,Gerente de Producto,7,120000.0
+38,Otro,Titulo de Maestria,Director de Marketing,14,195000.0
+40,Mujer,Titulo de Licenciatura,bbb,16,215000.0
+29,Otro,Titulo de Licenciatura,Analista de Marketing,4,75000.0
+38,Hombre,Titulo de Maestria,Director de Marketing,0,195000.0
+26,Mujer,Titulo de Maestria,Ingeniero de Software,2,75000.0
+39,Hombre,Doctorado,Cientifico Investigador,14,185000.0
+32,Mujer,Titulo de Licenciatura,Gerente de Marketing,7,120000.0
+28,Hombre,Titulo de Licenciatura,Diseñador Grafico,3,60000.0
+35,Mujer,Titulo de Maestria,Cientifico de Datos,10,145000.0
+33,Mujer,Titulo de Maestria,Otro,8,135000.0
+27,Hombre,Titulo de Licenciatura,Ingeniero de Software,2,70000.0
+36,Mujer,Doctorado,Director de Investigacion,0,175000.0
+33,Otro,Titulo de Maestria,Gerente de Marketing,9,135000.0
+38,Hombre,Otro,Director de Marketing,14,195000.0
+38,Hombre,Titulo de Maestria,bbb,14,195000.0
+33,Mujer,Titulo de Maestria,Gerente de Marketing,0,135000.0
+27,Otro,Titulo de Licenciatura,Ingeniero de Software,0,80000.0
+36,Mujer,Otro,Cientifico Investigador,13,185000.0
+27,Hombre,Otro,Diseñador de Producto,2,55000.0
+40,Mujer,Otro,Gerente Financiero,0,215000.0
+29,Hombre,Titulo de Licenciatura,Otro,4,75000.0
+36,Otro,Doctorado,Cientifico Investigador,13,185000.0
+29,Hombre,Titulo de Licenciatura,Asociado de Ventas,2,45000.0
+45,Mujer,Titulo de Maestria,Gerente de Ventas,8,80000.0
+37,Hombre,Otro,Gerente de Marketing,7,90000.0
+23,Mujer,Escuela Secundaria,Ejecutivo de Ventas,1,35000.0
+41,Hombre,Titulo de Licenciatura,Gerente Financiero,12,120000.0
+26,Mujer,Titulo de Licenciatura,Gerente de Marketing Digital,4,60000.0
+28,Mujer,Otro,Representante de Ventas,3,40000.0
+50,Hombre,Doctorado,Gerente Senior de Marketing de Producto,15,150000.0
+35,Mujer,Titulo de Licenciatura,Representante de Ventas Junior,0,35000.0
+42,Hombre,Titulo de Maestria,Director de Marketing,13,130000.0
+27,Mujer,Titulo de Licenciatura,Asociado de Ventas,1,35000.0
+48,Hombre,Doctorado,Director de Ventas,0,180000.0
+31,Mujer,Escuela Secundaria,Gerente Financiero,4,60000.0
+36,Hombre,Titulo de Licenciatura,Gerente de Ventas,6,75000.0
+25,Mujer,Titulo de Maestria,Gerente de Marketing Digital,3,50000.0
+39,Hombre,Doctorado,Gerente de Marketing,10,100000.0
+30,Mujer,Escuela Secundaria,Ejecutivo de Ventas,2,40000.0
+44,Hombre,Titulo de Licenciatura,Gerente de Marketing de Contenidos,11,110000.0
+29,Mujer,Otro,Representante de Ventas,4,55000.0
+47,Hombre,Doctorado,Gerente Senior de Marketing de Producto,17,170000.0
+32,Mujer,Titulo de Licenciatura,Representante de Ventas Junior,3,40000.0
+38,Hombre,Titulo de Maestria,Director de Marketing,0,95000.0
+24,Mujer,Escuela Secundaria,Asociado de Ventas,1,35000.0
+40,Hombre,Doctorado,Director de Ventas,14,140000.0
+34,Mujer,Titulo de Licenciatura,Gerente Financiero,5,70000.0
+26,Hombre,Titulo de Maestria,Gerente de Marketing Digital,3,50000.0
+31,Mujer,Doctorado,Otro,6,75000.0
+27,Hombre,Escuela Secundaria,Ejecutivo de Ventas,2,40000.0
+43,Mujer,Titulo de Licenciatura,Gerente de Marketing de Contenidos,12,120000.0
+28,Hombre,Titulo de Maestria,Representante de Ventas,0,40000.0
+46,Mujer,Doctorado,Gerente Senior de Marketing de Producto,16,160000.0
+33,Hombre,Titulo de Licenciatura,Representante de Ventas Junior,4,55000.0
+39,Mujer,Titulo de Maestria,Director de Marketing,10,100000.0
+25,Hombre,Escuela Secundaria,Asociado de Ventas,1,35000.0
+41,Mujer,Titulo de Licenciatura,Gerente de Ventas,8,80000.0
+35,Hombre,Doctorado,Gerente de Marketing,7,90000.0
+23,Mujer,Titulo de Licenciatura,Ejecutivo de Ventas,1,35000.0
+32,Hombre,Titulo de Maestria,Gerente de Marketing de Contenidos,5,70000.0
+27,Mujer,Escuela Secundaria,Representante de Ventas,3,40000.0
+36,Mujer,Titulo de Licenciatura,Representante de Ventas Junior,2,35000.0
+48,Hombre,Titulo de Maestria,Director de Marketing,0,180000.0
+31,Otro,Escuela Secundaria,Asociado de Ventas,2,40000.0
+29,Hombre,Titulo de Licenciatura,Director de Ventas,6,75000.0
+45,Mujer,Doctorado,Gerente Financiero,12,120000.0
+25,Hombre,Titulo de Maestria,Gerente de Marketing Digital,3,50000.0
+37,Mujer,Titulo de Licenciatura,Gerente de Marketing,7,90000.0
+23,Hombre,Escuela Secundaria,Ejecutivo de Ventas,1,35000.0
+41,Mujer,Titulo de Licenciatura,Gerente de Marketing de Contenidos,11,110000.0
+33,Mujer,Doctorado,Gerente Senior de Marketing de Producto,5,70000.0
+28,Hombre,Titulo de Licenciatura,Representante de Ventas Junior,1,30000.0
+42,Mujer,Titulo de Maestria,Director de Marketing,13,130000.0
+27,Hombre,Escuela Secundaria,Gerente Financiero,4,60000.0
+50,Mujer,Titulo de Licenciatura,Gerente de Ventas,15,150000.0
+35,Hombre,Doctorado,Gerente de Marketing,8,80000.0
+24,Mujer,Titulo de Licenciatura,Ejecutivo de Ventas,1,35000.0
+46,Hombre,Titulo de Maestria,Gerente de Marketing de Contenidos,16,160000.0
+29,Mujer,Escuela Secundaria,Representante de Ventas,2,40000.0
+31,Mujer,Titulo de Licenciatura,bbb,3,40000.0
+38,Hombre,Titulo de Maestria,Otro,0,95000.0
+39,Hombre,Titulo de Licenciatura,Director de Ventas,0,100000.0
+33,Mujer,Doctorado,Gerente Financiero,5,70000.0
+27,Hombre,Titulo de Maestria,Gerente de Marketing Digital,3,50000.0
+43,Mujer,Titulo de Licenciatura,Otro,12,120000.0
+28,Hombre,Escuela Secundaria,Ejecutivo de Ventas,2,40000.0
+31,Hombre,Titulo de Licenciatura,Asociado de Ventas,3,50000.0
+46,Mujer,Titulo de Maestria,Gerente de Marketing,14,140000.0
+38,Mujer,Titulo de Licenciatura,Gerente Financiero,10,100000.0
+24,Hombre,Doctorado,Gerente de Marketing Digital,1,30000.0
+33,Mujer,Titulo de Maestria,Gerente de Marketing de Contenidos,6,75000.0
+50,Mujer,Titulo de Licenciatura,Gerente de Ventas,18,180000.0
+35,Hombre,Doctorado,Gerente Senior de Marketing de Producto,8,80000.0
+41,Hombre,Titulo de Maestria,Director de Marketing,12,120000.0
+26,Mujer,Escuela Secundaria,Gerente Financiero,3,45000.0
+32,Hombre,Titulo de Licenciatura,Director de Ventas,7,90000.0
+27,Otro,Doctorado,Gerente de Marketing,4,55000.0
+43,Hombre,Titulo de Maestria,Gerente de Marketing de Contenidos,16,160000.0
+28,Mujer,Titulo de Licenciatura,Representante de Ventas,2,40000.0
+31,Mujer,Escuela Secundaria,Representante de Ventas Junior,3,40000.0
+38,Hombre,Titulo de Maestria,Director de Marketing,9,95000.0
+25,Mujer,Escuela Secundaria,Asociado de Ventas,1,35000.0
+39,Hombre,Titulo de Licenciatura,Gerente de Ventas,11,110000.0
+33,Mujer,Doctorado,Gerente Financiero,6,75000.0
+27,Hombre,Titulo de Maestria,bbb,3,50000.0
+43,Mujer,Titulo de Licenciatura,Gerente de Marketing,12,120000.0
+50,Mujer,Titulo de Maestria,Gerente de Marketing de Contenidos,15,150000.0
+36,Hombre,Titulo de Licenciatura,Representante de Ventas,5,70000.0
+48,Mujer,Doctorado,Gerente Senior de Marketing de Producto,19,190000.0
+31,Hombre,Escuela Secundaria,Representante de Ventas Junior,3,40000.0
+29,Mujer,Titulo de Licenciatura,Director de Ventas,6,75000.0
+45,Hombre,Titulo de Maestria,Director de Marketing,14,140000.0
+35,Mujer,Doctorado,Gerente de Marketing,8,80000.0
+42,Mujer,Titulo de Maestria,Gerente de Ventas,0,130000.0
+26,Hombre,Escuela Secundaria,Gerente de Marketing Digital,2,40000.0
+32,Mujer,Titulo de Licenciatura,Gerente de Marketing de Contenidos,7,90000.0
+27,Hombre,Doctorado,Representante de Ventas,4,55000.0
+50,Mujer,Titulo de Maestria,Gerente Senior de Marketing de Producto,18,180000.0
+36,Hombre,Titulo de Licenciatura,Representante de Ventas Junior,3,45000.0
+48,Mujer,Doctorado,Director de Marketing,19,190000.0
+31,Hombre,Escuela Secundaria,Asociado de Ventas,3,50000.0
+29,Mujer,Titulo de Licenciatura,Gerente Financiero,4,55000.0
+45,Hombre,Titulo de Maestria,Gerente de Marketing,13,130000.0
+25,Mujer,Escuela Secundaria,Ejecutivo de Ventas,1,35000.0
+41,Hombre,Titulo de Licenciatura,Gerente de Marketing de Contenidos,12,120000.0
+35,Mujer,Doctorado,Gerente Senior de Marketing de Producto,9,95000.0
+23,Hombre,Titulo de Licenciatura,Representante de Ventas,1,35000.0
+42,Mujer,Titulo de Maestria,Gerente de Marketing Digital,14,140000.0
+26,Hombre,Escuela Secundaria,bbb,2,40000.0
+32,Mujer,Titulo de Licenciatura,Director de Marketing,8,80000.0
+27,Hombre,Doctorado,Gerente de Marketing,4,55000.0
+50,Mujer,Titulo de Maestria,Gerente de Marketing de Contenidos,19,190000.0
+36,Hombre,Titulo de Licenciatura,Otro,6,75000.0
+48,Mujer,Doctorado,Otro,0,170000.0
+26,Hombre,Escuela Secundaria,Otro,2,40000.0
+32,Mujer,Otro,Director de Marketing,8,80000.0
+36,Hombre,Titulo de Licenciatura,Director de Ventas,6,75000.0
+45,Hombre,Otro,Gerente de Marketing,13,130000.0
+26,Hombre,Otro,Gerente de Ventas,2,40000.0
+50,Mujer,Otro,Gerente de Marketing de Contenidos,19,190000.0
+48,Mujer,Doctorado,Gerente Senior de Marketing de Producto,17,170000.0
+31,Hombre,Escuela Secundaria,Otro,3,50000.0
+26,Hombre,Escuela Secundaria,Gerente de Ventas,2,40000.0
+41,Hombre,Titulo de Licenciatura,Otro,12,120000.0
+42,Mujer,Otro,Gerente de Marketing Digital,14,140000.0
+32,Otro,Titulo de Licenciatura,Director de Marketing,8,80000.0
+37,Hombre,Titulo de Maestria,Gerente de Marketing,11,110000.0
+26,Mujer,Titulo de Licenciatura,Representante de Ventas,2,40000.0
+42,Hombre,Doctorado,Gerente de Marketing de Contenidos,15,150000.0
+29,Hombre,Titulo de Licenciatura,Gerente de Ventas,5,70000.0
+45,Mujer,Titulo de Maestria,Director de Marketing,16,160000.0
+24,Hombre,Escuela Secundaria,Asociado de Ventas,1,35000.0
+39,Otro,Titulo de Licenciatura,Gerente Financiero,10,100000.0
+31,Hombre,Doctorado,Gerente Senior de Marketing de Producto,7,90000.0
+27,Mujer,Titulo de Maestria,Otro,3,50000.0
+43,Hombre,Titulo de Licenciatura,Gerente de Marketing de Contenidos,14,140000.0
+28,Mujer,Escuela Secundaria,Representante de Ventas,2,40000.0
+50,Hombre,Doctorado,Gerente de Marketing,18,180000.0
+35,Mujer,Titulo de Licenciatura,Otro,7,90000.0
+23,Hombre,Titulo de Licenciatura,Gerente de Ventas,1,35000.0
+41,Mujer,Titulo de Maestria,Director de Marketing,12,120000.0
+50,Mujer,Titulo de Maestria,Gerente de Marketing de Contenidos,18,180000.0
+36,Hombre,Titulo de Licenciatura,Representante de Ventas,6,75000.0
+29,Mujer,Titulo de Licenciatura,Director de Ventas,5,70000.0
+45,Hombre,Titulo de Maestria,Director de Marketing,15,150000.0
+35,Mujer,Doctorado,Otro,8,80000.0
+23,Hombre,Titulo de Licenciatura,Ejecutivo de Ventas,1,35000.0
+42,Mujer,Titulo de Maestria,Gerente de Ventas,13,130000.0
+50,Mujer,Otro,Gerente Senior de Marketing de Producto,18,180000.0
+35,Mujer,Doctorado,Otro,9,95000.0
+23,Hombre,Titulo de Licenciatura,Representante de Ventas,0,35000.0
+42,Otro,Titulo de Maestria,Gerente de Marketing Digital,14,140000.0
+27,Hombre,Otro,Gerente de Marketing,4,55000.0
+48,Mujer,Doctorado,Gerente Senior de Marketing de Producto,0,170000.0
+31,Otro,Escuela Secundaria,Asociado de Ventas,0,50000.0
+45,Otro,Titulo de Maestria,Gerente de Marketing,13,130000.0
+23,Otro,Titulo de Licenciatura,Representante de Ventas,1,35000.0
+27,Hombre,Doctorado,Gerente de Marketing,0,55000.0
+29,Mujer,Titulo de Licenciatura,Gerente Financiero,0,55000.0
+25,Mujer,Escuela Secundaria,Otro,1,35000.0
+38,Hombre,Titulo de Maestria,Gerente de Marketing,12,120000.0
+27,Mujer,Titulo de Licenciatura,Representante de Ventas,3,45000.0
+43,Hombre,Doctorado,Gerente de Marketing de Contenidos,16,160000.0
+34,Mujer,Escuela Secundaria,Ejecutivo de Ventas,5,70000.0
+30,Hombre,Titulo de Licenciatura,Gerente de Ventas,6,75000.0
+46,Mujer,Titulo de Maestria,Director de Marketing,17,170000.0
+40,Mujer,Titulo de Licenciatura,Gerente Financiero,11,110000.0
+32,Hombre,Doctorado,Otro,8,80000.0
+28,Mujer,Titulo de Maestria,Otro,4,55000.0
+44,Hombre,Titulo de Licenciatura,Otro,0,150000.0
+51,Hombre,Doctorado,Gerente de Marketing,19,190000.0
+36,Mujer,Titulo de Licenciatura,Ejecutivo de Ventas,8,80000.0
+24,Hombre,Titulo de Licenciatura,Gerente de Ventas,1,35000.0
+42,Otro,Titulo de Maestria,Director de Marketing,13,130000.0
+27,Hombre,Escuela Secundaria,Gerente Financiero,3,45000.0
+28,Hombre,Doctorado,Gerente de Marketing,4,55000.0
+51,Mujer,Titulo de Maestria,Gerente de Marketing de Contenidos,19,190000.0
+37,Hombre,Titulo de Licenciatura,Representante de Ventas,7,90000.0
+49,Otro,Doctorado,Gerente Senior de Marketing de Producto,20,200000.0
+32,Hombre,Escuela Secundaria,Representante de Ventas Junior,0,40000.0
+30,Mujer,Titulo de Licenciatura,Director de Ventas,5,70000.0
+46,Hombre,Titulo de Maestria,Director de Marketing,16,160000.0
+26,Mujer,Escuela Secundaria,Asociado de Ventas,1,35000.0
+24,Hombre,Titulo de Licenciatura,Ejecutivo de Ventas,1,35000.0
+43,Mujer,Titulo de Maestria,Gerente de Ventas,14,140000.0
+27,Hombre,Escuela Secundaria,Gerente de Marketing Digital,2,40000.0
+33,Mujer,Titulo de Licenciatura,Gerente de Marketing de Contenidos,7,90000.0
+28,Hombre,Doctorado,Representante de Ventas,4,55000.0
+51,Mujer,Titulo de Maestria,Gerente Senior de Marketing de Producto,19,190000.0
+32,Otro,Escuela Secundaria,Asociado de Ventas,3,50000.0
+30,Mujer,Titulo de Licenciatura,Gerente Financiero,4,55000.0
+46,Hombre,Titulo de Maestria,Gerente de Marketing,14,140000.0
+26,Mujer,Escuela Secundaria,Ejecutivo de Ventas,1,35000.0
+42,Hombre,Titulo de Licenciatura,Gerente de Marketing de Contenidos,13,130000.0
+36,Mujer,Doctorado,Gerente Senior de Marketing de Producto,10,100000.0
+24,Hombre,Titulo de Licenciatura,Otro,1,35000.0
+43,Mujer,Titulo de Maestria,Gerente de Marketing Digital,15,150000.0
+27,Hombre,Escuela Secundaria,Gerente de Ventas,2,40000.0
+33,Mujer,Titulo de Licenciatura,Director de Marketing,8,80000.0
+49,Mujer,Doctorado,Gerente Senior de Marketing de Producto,20,200000.0
+32,Hombre,Escuela Secundaria,Representante de Ventas Junior,3,40000.0
+30,Mujer,Titulo de Licenciatura,Gerente de Ventas,5,70000.0
+42,Hombre,Titulo de Licenciatura,Gerente Financiero,13,130000.0
+36,Mujer,Doctorado,Otro,9,95000.0
+33,Mujer,Otro,Gerente de Marketing de Contenidos,7,90000.0
+37,Hombre,Titulo de Licenciatura,Representante de Ventas Junior,6,75000.0
+49,Mujer,Doctorado,Director de Marketing,0,200000.0
+32,Hombre,Escuela Secundaria,Asociado de Ventas,3,50000.0
+24,Hombre,Titulo de Licenciatura,Representante de Ventas,1,35000.0
+27,Otro,Escuela Secundaria,Gerente de Ventas,2,40000.0
+37,Hombre,Titulo de Licenciatura,Director de Ventas,7,90000.0
+30,Mujer,Titulo de Licenciatura,Otro,5,70000.0
+36,Mujer,Doctorado,Gerente de Marketing,9,95000.0
+49,Mujer,Doctorado,Director de Marketing,20,200000.0
+33,Mujer,Titulo de Licenciatura,Director de Marketing,0,80000.0
+36,Otro,Doctorado,Gerente de Marketing,9,95000.0
+27,Otro,Escuela Secundaria,Gerente de Marketing Digital,2,40000.0
+37,Hombre,Otro,Representante de Ventas Junior,6,75000.0
+46,Hombre,Titulo de Maestria,Otro,0,140000.0
+28,Otro,Titulo de Licenciatura,Coordinador de Recursos Humanos Junior,3,45000.0
+41,Hombre,Titulo de Maestria,Otro,13,170000.0
+28,Otro,Titulo de Licenciatura,Desarrollador Web,4,65000.0
+50,Mujer,Titulo de Maestria,Otro,15,150000.0
+32,Mujer,Titulo de Maestria,bbb,6,115000.0
+54,Otro,Escuela Secundaria,Ingeniero de Software Senior,29,158254.0
+31,Hombre,Escuela Secundaria,Generalista de Recursos Humanos Junior,0,35000.0
+34,Hombre,Titulo de Licenciatura,bbb,8,101000.0
+45,Mujer,Maestria,Gerente de Marketing Senior,0,160000.0
+24,Mujer,Otro,Desarrollador Web Junior,1,40000.0
+45,Mujer,Titulo de Licenciatura,Otro,21,167015.0
+33,Otro,Titulo de Maestria,Ingeniero de Proyectos Senior,10,113334.0
+28,Otro,Titulo de Maestria,Ingeniero Full Stack,5,84181.0
+31,Mujer,Otro,Coordinador de Eventos,5,45000.0
+36,Mujer,Licenciatura,Reclutador,9,60000.0
+43,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,0,152560.0
+28,Mujer,Licenciatura,Otro,5,150000.0
+34,Hombre,Otro,Otro,8,140000.0
+36,Mujer,Licenciatura,Asociado de Ventas,7,60000.0
+37,Hombre,Titulo de Licenciatura,Gerente de Producto,0,150000.0
+50,Mujer,Titulo de Maestria,bbb,19,190000.0
+28,Hombre,Licenciatura,Ingeniero de Software,4,160000.0
+50,Mujer,Doctorado,Gerente de Ingenieros de Software,16,185000.0
+40,Mujer,Doctorado,Otro,13,125000.0
+46,Hombre,Titulo de Maestria,bbb,16,160000.0
+33,Hombre,Otro,Desarrollador Web Junior,5,50000.0
+28,Hombre,Titulo de Licenciatura,bbb,2,70000.0
+33,Hombre,Doctorado,Director de Ventas,0,155000.0
+29,Mujer,Licenciatura,bbb,4,140000.0
+28,Hombre,Titulo de Licenciatura,Desarrollador Web,0,65000.0
+27,Mujer,Titulo de Licenciatura,Ingeniero de Software,0,70000.0
+36,Hombre,Titulo de Maestria,Otro,8,140000.0
+33,Mujer,Maestria,Gerente de Producto,0,195000.0
+31,Mujer,Escuela Secundaria,Asociado de Ventas Junior,0,25000.0
+33,Mujer,Titulo de Maestria,Otro,9,121432.0
+47,Otro,Doctorado,Gerente de Ingenieros de Software,21,174985.0
+33,Otro,Titulo de Licenciatura,Gerente de Recursos Humanos,6,75000.0
+31,Hombre,Titulo de Licenciatura,Desarrollador Back End,8,100052.0
+28,Mujer,Titulo de Licenciatura,bbb,3,65000.0
+27,Otro,Licenciatura,Ingeniero de Software,0,160000.0
+25,Otro,Escuela Secundaria,Ejecutivo de Ventas,1,35000.0
+29,Hombre,Titulo de Licenciatura,bbb,4,80000.0
+28,Mujer,Titulo de Maestria,Coordinador de Recursos Humanos,0,45000.0
+43,Hombre,Titulo de Licenciatura,Ingeniero Full Stack,0,152726.0
+23,Mujer,Titulo de Licenciatura,Otro,1,32000.0
+34,Hombre,Otro,Analista de Datos,8,100000.0
+27,Mujer,Maestria,Cientifico Investigador Junior,1,50000.0
+30,Mujer,Titulo de Licenciatura,Ingeniero de Software Senior,5,100151.0
+32,Otro,Titulo de Licenciatura,Gerente de Producto,7,110000.0
+32,Hombre,Escuela Secundaria,Asociado de Ventas,0,50000.0
+24,Mujer,Escuela Secundaria,Coordinador de Recursos Humanos Junior,1,32000.0
+45,Mujer,Doctorado,Otro,15,150000.0
+48,Hombre,Otro,Otro,18,210000.0
+36,Mujer,Doctorado,bbb,12,170000.0
+31,Hombre,Otro,Ingeniero de Proyectos Senior,7,135000.0
+42,Mujer,Titulo de Maestria,Otro,14,163978.0
+32,Mujer,Titulo de Maestria,bbb,7,100000.0
+32,Hombre,Licenciatura,bbb,7,170000.0
+30,Hombre,Titulo de Maestria,Otro,0,120000.0
+29,Mujer,Titulo de Licenciatura,bbb,4,55000.0
+42,Hombre,Doctorado,Otro,16,140000.0
+31,Hombre,Titulo de Licenciatura,bbb,9,140000.0
+34,Otro,Doctorado,Director de Investigacion,11,160000.0
+29,Hombre,Titulo de Licenciatura,bbb,5,80000.0
+42,Hombre,Titulo de Maestria,Desarrollador Web,0,110000.0
+25,Hombre,Titulo de Licenciatura,bbb,1,60000.0
+35,Hombre,Otro,Desarrollador Back End,8,140000.0
+47,Hombre,Doctorado,Otro,0,190000.0
+52,Hombre,Doctorado,Gerente de Ingenieros de Software,18,200000.0
+45,Hombre,Licenciatura,Grente de Operaciones de Ventas,18,110000.0
+41,Hombre,Titulo de Licenciatura,Gerente Financiero,0,120000.0
+39,Mujer,Otro,Ingeniero de Software Senior,11,160000.0
+37,Hombre,Otro,Gerente de Operaciones,10,113000.0
+28,Mujer,Titulo de Licenciatura,Analista de Marketing,0,65000.0
+51,Mujer,Otro,Ingeniero de Proyectos Senior,25,177913.0
+45,Hombre,Doctorado,Otro,14,140000.0
+33,Mujer,Titulo de Licenciatura,Otro,6,115000.0
+29,Mujer,Escuela Secundaria,Representante de Ventas,0,40000.0
+45,Otro,Titulo de Maestria,Ingeniero de Software Senior,23,174336.0
+32,Mujer,Otro,Desarrollador de Software,8,95000.0
+48,Hombre,Maestria,bbb,21,180000.0
+36,Mujer,Titulo de Maestria,bbb,13,144647.0
+29,Mujer,Otro,Desarrollador Back End,3,90000.0
+51,Otro,Titulo de Maestria,Gerente de Marketing de Contenidos,19,190000.0
+34,Mujer,Titulo de Maestria,Cientifico de Datos,9,140000.0
+46,Otro,Maestria,Gerente de Proyectos Senior,19,140000.0
+42,Hombre,Titulo de Maestria,Ingeniero Full Stack,19,176643.0
+31,Mujer,Licenciatura,Coordinador de Recursos Humanos Junior,0,50000.0
+25,Mujer,Titulo de Licenciatura,Desarrollador Front End,0,55000.0
+43,Hombre,Doctorado,Ingeniero Senior,17,140000.0
+41,Mujer,Titulo de Maestria,Coordinador de Marketing,0,131000.0
+33,Otro,Titulo de Maestria,Desarrollador Front End,10,119419.0
+41,Hombre,Doctorado,Ingeniero de Proyectos Senior,12,165000.0
+31,Mujer,Titulo de Maestria,Ingeniero Full Stack,6,101186.0
+28,Mujer,Titulo de Licenciatura,Representante de Ventas,0,40000.0
+54,Otro,Titulo de Licenciatura,Ingeniero de Proyectos Senior,28,192292.0
+28,Mujer,Titulo de Licenciatura,Otro,2,65000.0
+26,Otro,Titulo de Licenciatura,Desarrollador de Software Junior,1,35000.0
